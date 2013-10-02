@@ -4,7 +4,7 @@ require "stringex"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_user       = "user@domain.com"
+ssh_user       = ""
 ssh_port       = "22"
 document_root  = "~/website.com/"
 rsync_delete   = false
@@ -261,7 +261,7 @@ multitask :push do
     message = "Site updated at #{Time.now.utc}"
     system "git commit -m \"#{message}\""
     puts "\n## Pushing generated #{deploy_dir} website"
-    system "git push origin #{deploy_branch}"
+    system "git push origin +#{deploy_branch}"
     puts "\n## Github Pages deploy complete"
   end
 end
