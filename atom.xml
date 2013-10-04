@@ -4,7 +4,7 @@
   <title><![CDATA[Becoming Medium]]></title>
   <link href="http://wbailey.github.io/atom.xml" rel="self"/>
   <link href="http://wbailey.github.io/"/>
-  <updated>2013-10-03T18:35:19-07:00</updated>
+  <updated>2013-10-03T22:36:17-07:00</updated>
   <id>http://wbailey.github.io/</id>
   <author>
     <name><![CDATA[Wes Bailey]]></name>
@@ -18,7 +18,14 @@
     <link href="http://wbailey.github.io/blog/2013/09/24/career-levels/"/>
     <updated>2013-09-24T11:43:00-07:00</updated>
     <id>http://wbailey.github.io/blog/2013/09/24/career-levels</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Defining a Senior Software Engineer seems to be a pretty difficult task for our industry.  The
+current methodology is to create the dreaded &ldquo;Job Description&rdquo; which focuses on &ldquo;responsibilities&rdquo;
+and &ldquo;requirements&rdquo;.  The problem with this methodology is that it doesn&rsquo;t provide a framework that
+is consistent and technology agnostic, instead focusing on the specifics of the languages and
+tools used.  This is all well and good but how do you build an organization around this approach?
+How can you evaluate new talent consistently and compare it with your current team?  How do you
+evaluate and compare engineers who work with different languages and tools?  Is it impossible to
+compare a javascript engineer with a ruby engineer?</p>
 ]]></content>
   </entry>
   
