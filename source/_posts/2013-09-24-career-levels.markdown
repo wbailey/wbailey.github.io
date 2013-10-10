@@ -28,47 +28,48 @@ development.  I wanted answers to questions like:
   justification?
 * How do you mentor engineers in their career and so that they can grow and learn?
 
-I turned to the web and that gave me unfulfilling answers like the one on this thread on
+There are more questions to be answered but this is a good starter set.  I turned to the web and
+that yielded a couple of threads on
 [programmers.stackexchange](http://programmers.stackexchange.com/questions/14914/whats-the-difference-between-entry-level-jr-sr-developers)
-and this thread on
-[Quora](http://www.quora.com/When-does-a-software-developer-become-a-senior-software-developer).  Of
-course there are more posts and articles but they were not very fulfilling so I kept searching.
-I talked with a lot of my peers in my network and they used the "_Job Description_" approach which
-we already determined has failed.  Frustrated I spent a lot of time thinking on the topic and came
-up with a framework that can assist in making the decisions around the questions above.
+and on
+[Quora](http://www.quora.com/When-does-a-software-developer-become-a-senior-software-developer).
+There are more posts and articles but they were not very fulfilling so I kept searching.  Not
+finding what I wanted online, I talked with a few peers in my network. Turns out they use the "_Job
+Description_" approach and they agree it is a failed approach.  I started looking for a framework
+that I could use to scale an organization in both talent evaluation and career development.  This
+search turned empty so instead of I spent a lot of time thinking on the topic and came up with a
+framework that can assist in making the decisions around the questions above.
 
 ### A New Approach
 
-The first thing to realize is that the level definition is more than about just a single level for
-the _Senior Software Engineer_.  Instead it is about many different levels that are necessary for an
-organization to function and thrive.  There are some who argue for a "_flat_" organization but I'll
-address that myth in another blog post.  After we have defined the levels, we should ensure that our
-level definitions make it easy to answer the questions we posited previously.  They should also help
-us lay the foundation for a career progression that is possible within the company helping us retain
-talented people.
+It is important to understand that the definition is actually for many levels than just the Senior
+Software Engineer.  There are some who argue for a "_flat_" organization but I'll address that myth
+in another blog post.  After we have defined the levels, we should ensure that our level definitions
+make it easy to answer the questions we posited previously.  They should also help us lay the
+foundation for a career progression that is possible within the company helping us retain talented
+people.
 
 The challenge I set for myself which really help me free my mind was to answer the following
 question:
 
 > If you could describe what an engineer at this level will do using only word, what would it be?
 
-Upon the single word definition being complete I would want more information so then I decided upon
-coming up with a single sentence description that contained the word to describe the role: 
+Upon the single word definition being complete I would want more information so then I decided to
+come up with a single sentence description containing the word to describe the role: 
 
-> Describe what the person at this level will be doing using the single word definition in a
-> sentence
+> Describe what the person at this level will be doing in a sentence using the single word
+> definition.
 
-Continuing on the theme of building up the next logical progression would be to come up with
-multiple sentences that elaborate on the focus of the level and providing guidance on the detail:
+Building on the foundation the next step is to define the major areas of focus for the level:
 
-> Define 3 to 4 areas of focus for the level that provide guidance for all regardless of technical
-> requirements
+> Define 3 to 4 technically agnostic areas of focus for the level that provide guidance for a person
+> performing at this level.
 
 It is important with the last step of the approach to not get caught up in the details of the
 technical requirements.  Doing so prevents you from having an overall framework and leads to the
 dreaded Job Description model that we previously stated doesn't help solve any problems.
 
-### The Framework
+### An Example
 
 First, let's define the levels in the engineering organization we are concerned with.  At ModCloth we
 have the following:
