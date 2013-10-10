@@ -44,10 +44,9 @@ framework that can assist in making the decisions around the questions above.
 
 It is important to understand that the definition is actually for many levels than just the Senior
 Software Engineer.  There are some who argue for a "_flat_" organization but I'll address that myth
-in another blog post.  After we have defined the levels, we should ensure that our level definitions
-make it easy to answer the questions we posited previously.  They should also help us lay the
-foundation for a career progression that is possible within the company helping us retain talented
-people.
+in another blog post.  We should ensure that our level definitions make it easy to answer the
+questions we posited previously.  They should also help us lay the foundation for a career
+progression that is possible within the company helping us retain talented people.
 
 The challenge I set for myself which really help me free my mind was to answer the following
 question:
@@ -67,18 +66,52 @@ Building on the foundation the next step is to define the major areas of focus f
 
 It is important with the last step of the approach to not get caught up in the details of the
 technical requirements.  Doing so prevents you from having an overall framework and leads to the
-dreaded Job Description model that we previously stated doesn't help solve any problems.
+dreaded _Job Description_ model that we previously stated doesn't help solve any problems.
 
 ### An Example
 
-First, let's define the levels in the engineering organization we are concerned with.  At ModCloth we
-have the following:
+As an example let's apply the model to the organization at
+[ModCloth](http://www.modcloth.com) where we have 3 levels in the engineer position:
 
-* Principal Software Engineer
-* Senior Software Engineer
-* Software Engineer
 * Associate Software Engineer
+* Software Engineer
+* Senior Software Engineer
 
 
-For an _associate_ level engineer the word that jumped out at me instantly was _learning_.  
+
+#### Associate Software Engineer
+
+For this level engineer the word that jumps out immediately is _learning_.  The person at this level
+is usually just out of school or a new member of the team who has made a career change.  They will
+spend most of the first year learning many aspects of the languages used, systems and best practices
+of the team.  The single sentence description is simply:
+
+> You are learning skills and developing competence
+
+Adding the focus for this level we have
+
+* Develop basic understanding of the languages used by the team.
+* Gain exposure to software development best practices such as TDD, debugging, etc.
+* Learning good communication skills to be used with your teammates.
+
+#### Software Engineer
+
+_practicing_
+
+> You are applying your skills and developing expertise
+
+* Leverage best practices to write and continually improve the code base
+* Develop mastery in the tools and languages used by the sphere
+* Begin practicing and learning how to teach/mentor
+
+#### Senior Software Engineer
+
+_mentoring_
+
+> You are mentoring your teammates and sharing expertise
+
+* Developing best practices to work and write on a great code base
+* Helping evaluate and select the tools and languages used by the sphere
+* On boarding and mentoring new engineers on the sphere
+
 
