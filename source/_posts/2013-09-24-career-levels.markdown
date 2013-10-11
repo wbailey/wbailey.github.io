@@ -70,48 +70,67 @@ dreaded _Job Description_ model that we previously stated doesn't help solve any
 
 ### An Example
 
-As an example let's apply the model to the organization at
-[ModCloth](http://www.modcloth.com) where we have 3 levels in the engineer position:
+As an example I'll walk you through how I applied the model to engineering at 
+[ModCloth](http://www.modcloth.com) where we have 3 levels in the software development position:
 
 * Associate Software Engineer
 * Software Engineer
 * Senior Software Engineer
 
-
+Of course we have other roles on the team as well such as test and platform engineers and I am sure
+you do on your team's as well, but I'll leave them out for brevity. 
 
 #### Associate Software Engineer
 
-For this level engineer the word that jumps out immediately is _learning_.  The person at this level
-is usually just out of school or a new member of the team who has made a career change.  They will
-spend most of the first year learning many aspects of the languages used, systems and best practices
-of the team.  The single sentence description is simply:
+This level is reserved for beginners, someone who is fresh out of school or making a career change.
+We don't expect them to have a lot of experience and it is easy to envision them spending their
+first year _learning_ about the languages used and best practices of their team.  Applying the model
+we have the following: 
 
-> You are learning skills and developing competence
+##### Description
 
-Adding the focus for this level we have
+_Learning_
 
-* Develop basic understanding of the languages used by the team.
-* Gain exposure to software development best practices such as TDD, debugging, etc.
-* Learning good communication skills to be used with your teammates.
+##### Summary
+
+_At the Associate level you are learning skills and developing competence._
+
+##### Level Areas of Focus
+
+* _Develop a basic understanding of the languages and tools used by the team._
+* _Gain exposure to software development best practices such as TDD, debugging, documentation, etc._
+* _Learn good communication skills to be used with your teammates._
 
 #### Software Engineer
 
-_practicing_
+##### Description
 
-> You are applying your skills and developing expertise
+_Practicing_
 
-* Leverage best practices to write and continually improve the code base
-* Develop mastery in the tools and languages used by the sphere
-* Begin practicing and learning how to teach/mentor
+##### Summary
+
+_At the Software level you are applying your skills and developing expertise_
+
+##### Level Areas of Focus
+
+* _Leverage best practices to write and continually improve the code base._
+* _Develop mastery in the tools and languages used by the sphere._
+* _Begin practicing and learning how to teach/mentor._
 
 #### Senior Software Engineer
 
-_mentoring_
+##### Description
 
-> You are mentoring your teammates and sharing expertise
+_Mentoring_
 
-* Developing best practices to work and write on a great code base
-* Helping evaluate and select the tools and languages used by the sphere
-* On boarding and mentoring new engineers on the sphere
+##### Summary
+
+_At the Senior level you are mentoring your teammates and sharing expertise_
+
+##### Level Areas of Focus
+
+* _Developing best practices to work and write on a great code base._
+* _Helping evaluate and select the tools and languages used by the sphere._
+* _On boarding and mentoring new engineers on the sphere._
 
 
