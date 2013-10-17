@@ -16,7 +16,7 @@ requirements and years of experience required for the position.
 
 <!-- more -->
 
-Like everyone else I used this approach for a while until I ran into problems.  I started looking
+Like everyone else, I used this approach for a while until I ran into problems.  I started looking
 for a framework that I could use to scale an organization in both talent evaluation and career
 development.  I wanted answers to questions like:
 
@@ -29,25 +29,26 @@ development.  I wanted answers to questions like:
   justification?
 * How do you mentor engineers in their career and so that they can grow and learn?
 
-There are more questions to be answered but this is a good starter set.  I turned to the web and
-that yielded a couple of threads on
+There are more questions to be answered but this is a good starter set.  Naturally, I searched the web for
+answers.  It turned up a couple of somewhat useful threads on
 [programmers.stackexchange](http://programmers.stackexchange.com/questions/14914/whats-the-difference-between-entry-level-jr-sr-developers)
 and on
-[Quora](http://www.quora.com/When-does-a-software-developer-become-a-senior-software-developer).
-There are more posts and articles but they were not very fulfilling so I kept searching.  Not
-finding what I wanted online, I talked with a few peers in my network. Turns out they use the "_Job
-Description_" approach and they agree it is a failed approach.  Since my search turned empty I
+[Quora](http://www.quora.com/When-does-a-software-developer-become-a-senior-software-developer) and
+while they left me admiring the technical complexity of some of the answers, there was still
+something missing.
+
+Not finding what I wanted online, I talked with a few peers in my network. Turns out they use the
+"_Job Description_" method and they agree it is a failed approach.  Since my search turned empty I
 instead spent a lot of time thinking on the topic and came up with a framework that provides
 guidelines for making the decisions around the questions above.
 
 ### A New Approach
 
 It is important to understand that the definition is actually for many levels than just the Senior
-Software Engineer.  There are some who argue for a ["_flat_"
-organization](http://link_to_brian_cantrells_talk),  but I'll address that myth in another blog
-post.  We should ensure that our level definitions make it easy to answer the questions we posited
-previously.  They should also help us lay the foundation for a career progression that is possible
-within the company helping us retain talented people.
+Software Engineer.  There are some who argue for a ["_flat_" organization](http://link_to_brian_cantrells_talk),
+but I'll address that myth in another blog post.  We should ensure that our level definitions make
+it easy to answer the questions we posited previously.  They should also help us lay the foundation
+for a career progression that is possible within the company helping us retain talented people.
 
 The challenge I set for myself which really helped provide a different frame of reference was to
 answer the following question:
