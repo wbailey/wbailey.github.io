@@ -3,7 +3,7 @@ layout: post
 title: "A Flexible Framework for Leveling Software Engineers"
 date: 2013-09-24 11:43
 comments: true
-categories: 
+categories: software engineering, professional development, job descriptions, leveling framework
 ---
 
 ### The Problem
