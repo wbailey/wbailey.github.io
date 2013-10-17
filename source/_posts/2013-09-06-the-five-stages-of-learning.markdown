@@ -3,7 +3,7 @@ layout: post
 title: "The Five Stages of Learning"
 date: 2013-09-06 16:38
 comments: true
-categories: 
+categories: [how we learn, team management, software engineering]
 ---
 
 We just completed our semi-annual performance review cycle at ModCloth.  In many of my discussions
