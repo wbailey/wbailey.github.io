@@ -45,7 +45,7 @@ guidelines for making the decisions around the questions above.
 ### A New Approach
 
 It is important to understand that the definition is actually for many levels than just the Senior
-Software Engineer.  There are some who argue for a ["_flat_" organization](http://link_to_brian_cantrells_talk),
+Software Engineer.  There are some who argue for a [flat organization](http://http://www.slideshare.net/bcantrill/surge2013),
 but I'll address that myth in another blog post.  We should ensure that our level definitions make
 it easy to answer the questions we posited previously.  They should also help us lay the foundation
 for a career progression that is possible within the company helping us retain talented people.
