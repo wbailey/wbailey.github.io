@@ -120,15 +120,33 @@ and additionally:
 * You find out through references that this person isn't in the top half of people that person has
   worked with.
 * They know just enough to be dangerous but don't have the full experience and rely on their
-  teammates to actually do the work
+  teammates to actually do the work.
 * Beware the phantom and exaggerated titles from smaller companies that imply leadership and
-  experience but when you drill in they don't have it
+  experience but when you drill in they don't have it.
 
 ### Space Cadet
 
-* this person has good experience maybe or has found a unique niche at their existing company that
-  doesn't translate anywhere else
-* usually really smart
-* totally have freaking idea what they really want to do or how to effectively use their talents
+This is a more recent category of candidate for me.  Several times in my career I have come across a
+bright individual and think the person could fill in more than one role on the team.  The problem
+with this person is they really don't know what they want to do with their careers.  Sometimes some
+simple coaching can really benefit this type of candidate, but other times you are just dealing with
+a person who really doesn't know what they want to do.  This person I call a _space cadet_ because
+they have no clue and if you bring them on to your team, they will ultimately blow it up like a
+failed rocket launch through their ambivalent actions.
+
+How do you tell if you are talking to a _space cadet_?  Here are a few things that might help you
+discern them from good candidates:
+
+* They work at a very large company where they can kind of drift and hide from real responsibility
+  or success.
+* The person has worked at their present company for a rather long time.
+* They have found a unique position at their current company that doesn't really apply to your
+  company.
+* The person is unsure whether they want to be a manager or a technical lead.  The main reason they
+  are unsure is because they don't really understand the difference between the roles.
+* The candidate is usually a really smart and well educated person but you just have a hunch they
+  haven't fully applied themselves like other candidates with similar backgrounds have.
+* They just totally have no freaking idea what they really want to do or how to effectively use
+  their talents.
 
 ### Discovery Techniques
