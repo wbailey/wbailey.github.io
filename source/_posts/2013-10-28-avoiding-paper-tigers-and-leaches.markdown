@@ -150,3 +150,24 @@ discern them from good candidates:
   their talents.
 
 ### Discovery Techniques
+
+I don't have any powerful insights here except to take the time to really get to know the candidate.
+One technique I use is to ask open ended questions and see where the candidate goes with their
+response.  You'll know if they are bluffing or really qualified as you ask more questions that
+involve them sharing the depth of their answer.
+
+As an example one of my favorite ruby questions was simply:
+
+   What is the difference between and array and a hash in ruby?
+
+If you wind up talking about indexes and the conversation stops there the candidate is pretty
+junior.  If they take it all the way to the C code in the MRI discussing the b-tree search for the
+hash then you know they've been there and done that!
+
+Another trick I have used to suss people like this out is to ask the same or a related question
+again either during the interview, or for the next round of the interview process.  If candidates
+can't keep their stories and answers straight there is pretty high likelihood of them being a _paper
+tiger_ or a _leach_.
+
+Let me know what your experience has been!  Have you interviewed these types of candidates and what
+techniques did you use to separate them out from the good candidates you wanted to move ahead with?
