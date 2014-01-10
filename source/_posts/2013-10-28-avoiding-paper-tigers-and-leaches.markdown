@@ -23,7 +23,7 @@ everyone on the interview panel realizes they have been duped.  The candidate tu
 complete dud.  We are left to wonder how they made it through the screening process and got this
 far?  It sucks and neither the team or the candidate is happy about it.
 
-In this post I am going to introduce you to candidates that I have dubbed _paper tigers_, _Leeches_
+In this post I am going to introduce you to candidates that I have dubbed _paper tigers_, _leeches_
 and _space cadets_.  These are the candidate types who in my experience you want to avoid like the
 plague.  The problem is how do we identify them and discover them early on in the process?  What
 characteristics do they have in common with great candidates that make them hard to distinguish?
