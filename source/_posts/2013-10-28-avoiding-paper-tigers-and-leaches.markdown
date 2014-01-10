@@ -154,11 +154,18 @@ discern them from good candidates:
 I don't have any powerful insights here except to take the time to really get to know the candidate.
 One technique I use is to ask open ended questions and see where the candidate goes with their
 response.  You'll know if they are bluffing or really qualified as you ask more questions that
-involve them sharing the depth of their answer.
+involve them sharing the depth of their knowledge.
+
+One example when it comes to roles is:
+
+> How do you define good software architecture?
+
+Totally open ended and doesn't give anything away.  The answer can go anywhere from discussing
+_Design Patterns_ to [Sandi Metz Rules](http://www.sandimetz.com)
 
 As an example one of my favorite ruby questions was simply:
 
-   What is the difference between and array and a hash in ruby?
+> What is the difference between an array and a hash in ruby?
 
 If you wind up talking about indexes and the conversation stops there the candidate is pretty
 junior.  If they take it all the way to the C code in the MRI discussing the b-tree search for the
