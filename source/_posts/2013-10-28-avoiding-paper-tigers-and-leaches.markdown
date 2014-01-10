@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Avoiding Paper Tigers, Leaches and Space Cadets"
+title: "Avoiding Paper Tigers, Leeches and Space Cadets"
 date: 2013-10-28 10:53
 comments: true
 categories: [software_engineering, professional development, recruiting, job searching, team structure, team management]
@@ -23,7 +23,7 @@ everyone on the interview panel realizes they have been duped.  The candidate tu
 complete dud.  We are left to wonder how they made it through the screening process and got this
 far?  It sucks and neither the team or the candidate is happy about it.
 
-In this post I am going to introduce you to candidates that I have dubbed _paper tigers_, _leaches_
+In this post I am going to introduce you to candidates that I have dubbed _paper tigers_, _Leeches_
 and _space cadets_.  These are the candidate types who in my experience you want to avoid like the
 plague.  The problem is how do we identify them and discover them early on in the process?  What
 characteristics do they have in common with great candidates that make them hard to distinguish?
@@ -101,9 +101,9 @@ _paper tigers_ when I phone screen or interview them in person:
 * They did the project on their own time and have never done it professionally but count it as real
   experience on their resume.
 
-### Leaches
+### Leeches
 
-The next category I have dubbed _leaches_ because like a leach, they survive off of the work of
+The next category I have dubbed _Leeches_ because like a leach, they survive off of the work of
 others.  In their resumes they take credit for others but instead of being caught in the phone
 screen, they pull it off and might not be exposed until you hire them.  When they join your team
 they drain it just like a parasite which is bad for the team's productivity, chemistry and moral.
