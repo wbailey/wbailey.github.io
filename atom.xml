@@ -4,7 +4,7 @@
   <title><![CDATA[Becoming Medium]]></title>
   <link href="http://www.becomingmedium.com/atom.xml" rel="self"/>
   <link href="http://www.becomingmedium.com/"/>
-  <updated>2014-01-03T22:47:38-08:00</updated>
+  <updated>2014-01-05T11:38:08-08:00</updated>
   <id>http://www.becomingmedium.com/</id>
   <author>
     <name><![CDATA[Wes Bailey]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interviewing is a Two Way Street]]></title>
+    <link href="http://www.becomingmedium.com/blog/2014/01/04/two-way-street/"/>
+    <updated>2014-01-04T20:03:00-08:00</updated>
+    <id>http://www.becomingmedium.com/blog/2014/01/04/two-way-street</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Avoiding Paper Tigers, Leaches and Space Cadets]]></title>
