@@ -116,7 +116,26 @@ A few things on context to keep in mind:
 
 ## Choose Your Panel Wisely
 
-This is an important aspect 
+This is an important aspect and yes if you made it this far I am not done with this post.  I still
+don't know how to stash posts in Jekyll.
+
+## Kickoffs and Debriefs
+
+Make sure that you have a kickoff where you have selected the interivew panel and review the role of
+each person on the panel.  
+
+* matrix of topics to focus on
+* review candidates resume
+* present the background on the interviews to date
+* address any areas to focus on
+* don't sell the candidate
+
+Debrief
+
+* Score them on a scale of 1-5 in each category
+* List out the strengths and weaknesses from the panel
+* evaluate
+* commit to communicating next steps or rejection
 
 ## The Two Way Street
 
