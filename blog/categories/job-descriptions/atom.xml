@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: job descriptions | Becoming Medium]]></title>
+  <link href="http://www.becomingmedium.com/blog/categories/job-descriptions/atom.xml" rel="self"/>
+  <link href="http://www.becomingmedium.com/"/>
+  <updated>2014-01-15T22:40:19-08:00</updated>
+  <id>http://www.becomingmedium.com/</id>
+  <author>
+    <name><![CDATA[Wes Bailey]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A Flexible Framework for Leveling Software Engineers]]></title>
+    <link href="http://www.becomingmedium.com/blog/2013/09/24/career-levels/"/>
+    <updated>2013-09-24T11:43:00-07:00</updated>
+    <id>http://www.becomingmedium.com/blog/2013/09/24/career-levels</id>
+    <content type="html"><![CDATA[<h3>The Problem</h3>
+
+<p>Defining a Senior Software Engineer seems to be a pretty difficult task for our industry.  Managing
+expectations around this definition is also really difficult and causes strife in organizations that
+are trying to grow and retain talent.  The current methodology is to create a &ldquo;<em>Job Description</em>&rdquo;
+which focuses on &ldquo;<em>responsibilities</em>&rdquo; and &ldquo;<em>requirements</em>&rdquo; by listing the work skills, technical
+requirements and years of experience required for the position.</p>
+
+<!-- more -->
+
+
+<p>Like everyone else, I used this approach for a while until I ran into problems.  I started looking
+for a framework that I could use to scale an organization in both talent evaluation and career
+development.  I wanted answers to questions like:</p>
+
+<ul>
+<li>How do you differentiate between a Software Engineer and a Senior Software Engineer?</li>
+<li>Is seniority based on years of experience or based on technical capability?</li>
+<li>How do you promote and fairly compensate engineers who use different languages and tools?</li>
+<li>How can you evaluate new talent consistently and compare them with the current members on your
+team?</li>
+<li>Where do the required years of experience come from and are they just an artificial crutch
+justification?</li>
+<li>How do you mentor engineers in their career and so that they can grow and learn?</li>
+</ul>
+
+
+<p>There are more questions to be answered but this is a good starter set.  Naturally, I searched the web for
+answers.  It turned up a couple of somewhat useful threads on
+<a href="http://programmers.stackexchange.com/questions/14914/whats-the-difference-between-entry-level-jr-sr-developers">programmers.stackexchange</a>
+and on
+<a href="http://www.quora.com/When-does-a-software-developer-become-a-senior-software-developer">Quora</a> and
+while they left me admiring the technical complexity of some of the answers, there was still
+something missing.</p>
+
+<p>Not finding what I wanted online, I talked with a few peers in my network. Turns out they use the
+&ldquo;<em>Job Description</em>&rdquo; method and they agree it is a failed approach.  Since my search turned empty I
+instead spent a lot of time thinking on the topic and came up with a framework that provides
+guidelines for making the decisions around the questions above.</p>
+
+<h3>A New Approach</h3>
+
+<p>It is important to understand that the definition is actually for many levels than just the Senior
+Software Engineer.  There are some who argue for a <a href="http://http://www.slideshare.net/bcantrill/surge2013">flat organization</a>,
+but I&rsquo;ll address that myth in another blog post.  We should ensure that our level definitions make
+it easy to answer the questions we posited previously.  They should also help us lay the foundation
+for a career progression that is possible within the company helping us retain talented people.</p>
+
+<p>The challenge I set for myself which really helped provide a different frame of reference was to
+answer the following question:</p>
+
+<blockquote><p>If you could describe what an engineer at this level will do using only word, what would it be?</p></blockquote>
+
+<p>A single word is succint, descriptive and most importantly memorable.  It will be easy for your
+teams to digest and in discussions leverage the simplicity.  A single word is only useful if we can
+provide context so the next step in the framework is to provide a single sentence description of the
+level.</p>
+
+<blockquote><p>Summarize what the person at this level will be doing in a single sentence incorporating the
+single word definition from the previous step</p></blockquote>
+
+<p>Building upon context we can switch to defining the major areas of focus the role should have at
+this level:</p>
+
+<blockquote><p>Define 3 to 4 technically agnostic areas of focus that provide guidance for a person performing at
+this level.</p></blockquote>
+
+<p>It is important with the last step of the approach to not get caught up in the details of the
+technical requirements.  Doing so prevents you from having an overall framework and leads to the
+dreaded <em>Job Description</em> model that we previously stated doesn&rsquo;t help solve any problems.</p>
+
+<h3>An Example</h3>
+
+<p>Let&rsquo;s walk through how I applied the model to engineering at <a href="http://www.modcloth.com">ModCloth</a>
+where we have 3 levels in the software development position:</p>
+
+<ul>
+<li>Associate Software Engineer</li>
+<li>Software Engineer</li>
+<li>Senior Software Engineer</li>
+</ul>
+
+
+<p>Of course we have other roles on the team as well such as test and platform engineers and I am sure
+you do on your team&rsquo;s as well, but I&rsquo;ll leave them out for brevity.</p>
+
+<h3>Associate Software Engineer</h3>
+
+<p>This level is reserved for beginners, someone who is fresh out of school or making a career change.
+We don&rsquo;t expect them to have a lot of experience and it is easy to envision them spending their
+first year <em>learning</em> about the languages used and best practices of their team.  Applying the model
+we have the following:</p>
+
+<h4>Description</h4>
+
+<p><em>Learning</em></p>
+
+<h4>Context</h4>
+
+<p><em>At the Associate level you are learning skills and developing competence.</em></p>
+
+<h4>Areas of Focus</h4>
+
+<ul>
+<li><em>Develop a basic understanding of the languages and tools used by the team.</em></li>
+<li><em>Gain exposure to software development best practices such as TDD, debugging, documentation, etc.</em></li>
+<li><em>Learn good communication skills to be used with your teammates.</em></li>
+</ul>
+
+
+<h3>Software Engineer</h3>
+
+<p>At this level the engineer understands the basics of the areas of focus from the previous level.
+The distinction is they are now <em>applying</em> their basic skills instead of learning what they are and
+requiring supervision.  Of course we are always learning but the difference is the person can now be
+trusted to apply their newly acquired skills independently.</p>
+
+<h4>Description</h4>
+
+<p><em>Practicing</em></p>
+
+<h4>Context</h4>
+
+<p><em>At the Software level you are applying your skills and developing expertise</em></p>
+
+<h4>Areas of Focus</h4>
+
+<ul>
+<li><em>Leverage best practices to write and continually improve the code base.</em></li>
+<li><em>Develop mastery in the tools, languages and frameworks used by the team.</em></li>
+<li><em>Begin practicing and learning how to teach/mentor less experienced teammates.</em></li>
+</ul>
+
+
+<h3>Senior Software Engineer</h3>
+
+<p>This level of engineer is the crux of any successful engineering team.  They are able to go beyond
+just using tools and techniques and now recommend what the team should do and how to go about it.
+They have accomplished a technical maturity that allows them to solve complex problems and begin to
+take an ownership position on the code and systems they haven&rsquo;t developed.</p>
+
+<h4>Description</h4>
+
+<p><em>Mentoring</em></p>
+
+<h4>Context</h4>
+
+<p><em>At the Senior level you are mentoring your teammates and sharing expertise</em></p>
+
+<h4>Level Areas of Focus</h4>
+
+<ul>
+<li><em>Develop the necessary best practices to work with and write a great code base.</em></li>
+<li><em>Help evaluate and select the tools, languages and frameworks used by the team.</em></li>
+<li><em>On board and mentor new members of the team ensuring their success.</em></li>
+<li><em>Begin to take an ownership position on code and systems developed by others</em></li>
+</ul>
+
+
+<h3>Summary</h3>
+
+<p>We have covered a model framework for defining the different levels of any role within an
+organization.  The benefits of the model are that it can be applied to role in the orginization and
+is scalable.   A simple moniker for remembering the model follows below:</p>
+
+<blockquote><p>Description &ndash;> Context &ndash;> Areas of Focus</p></blockquote>
+
+<p>Let&rsquo;s revisit how the example application of the model answers the questions posed at the beginning
+of this blog.  By providing simple and flexible areas of focus it helps evaluate and contrast the
+different levels in the defined role easily.  It is technology and years of experience agnostic
+instead judging engineers on their ability to go from individual to more team focused contributors.
+It also makes learning and mentoring a key component of how the team will judge it&rsquo;s success.</p>
+
+<p>The one question is doesn&rsquo;t answer is where the years of experience numbers come from?  Honestly, I
+have no idea and nor do I need to care anymore when writing a new job description!</p>
+]]></content>
+  </entry>
+  
+</feed>

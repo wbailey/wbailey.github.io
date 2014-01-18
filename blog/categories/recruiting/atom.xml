@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: recruiting | Becoming Medium]]></title>
+  <link href="http://www.becomingmedium.com/blog/categories/recruiting/atom.xml" rel="self"/>
+  <link href="http://www.becomingmedium.com/"/>
+  <updated>2014-01-15T22:40:19-08:00</updated>
+  <id>http://www.becomingmedium.com/</id>
+  <author>
+    <name><![CDATA[Wes Bailey]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Interviewing is a Two Way Street]]></title>
+    <link href="http://www.becomingmedium.com/blog/2014/01/04/two-way-street/"/>
+    <updated>2014-01-04T20:03:00-08:00</updated>
+    <id>http://www.becomingmedium.com/blog/2014/01/04/two-way-street</id>
+    <content type="html"><![CDATA[<h2>Why Interviews Suck</h2>
+
+<p>If you read my last post you know that I do a LOT of interviewing.  I enjoy it and love the
+conversations that transpire.  The problem is that most interviews are a horrible experience for
+everyone involved.  As a candidate you have to do the mind numbing walk through of everywhere you
+ever worked because no who is interviewing you bothered to read your resume.  As a panel member, you
+get candidates who just show up thinking their mere presence grants them a job.  Crazy from both
+sides!</p>
+
+<!--more-->
+
+
+<p>Lately I have had quite a few discussions with folks on what makes a successful interview?  How do
+you learn the most about a candidate?  What are we trying to accomplish with the interview?  As a
+candidate, how can I show them I am really the right person for the job?  In this post, I am going
+to share a few guidelines for both sides I think lead to a great interview.</p>
+
+<h2>The Worst Experience Ever</h2>
+
+<p>Years ago when I was working at <a href="http://www.verticalresponse.com"
+target="_blank">VerticalResponse</a>, I was part of an interview panel for a prospective engineer.
+There were 6 of us and the candidate crammed into a tiny conference room where we started off with
+the proverbial <em>tell us about your background</em> question because none of us had read his resume or
+prepared for the interview.  The candidate started to share his experience and soon enough we were
+asking him questions.  Smelling fear, we started to circle around this guy like a pack of blood
+thirsty sharks, asking him questions that soon because apparent were above his skill level.  It got
+hotter and hotter in the room and soon the candidate started to sweat profusely.</p>
+
+<p>Most normal people at this point take pause and ask the person if they need a break or some water.
+Not us!  We kept asking more difficult questions and kept drilling this guy like nobody&rsquo;s business.
+We put him in front of a white board and asked him to design a database for a library problem that
+was our stock question. It was customary to then get into details about standard CRUD operations
+that would be performed against the design including possible optimizations.  He was doing poorly
+but we didn&rsquo;t stop asking him questions.  We just kept asking, drilling deeper, and further
+humiliating the guy until it was embarrassing.</p>
+
+<p>Not satisfied with our established pedestal we jumped right in to our environment and vernacular
+asking him detailed questions about how he would solve a prospective problem.  Then, like Keith
+Hernandez in the <a href="http://youtu.be/Lr0ggLKhH1I" target="_blank">kissing scene</a>, we asked
+ourselves how could this guy not quickly understand our rpm based deployment system?  What kind of
+novice are we interviewing?  Why is he sweating so much?  How smart are we, right?  We are really
+smart!  Man, he is really sweating a lot.</p>
+
+<h2>Don&rsquo;t Pat Yourself on the Back</h2>
+
+<p>Have you ever been a part of this type of experience?  I can remember after we merciless ended the
+interview and walked &ldquo;sweaty guy&rdquo; out, talking with team and praising our process.  We exposed that
+guy didn&rsquo;t we?  We were all thumbs down saying what a loser the guy was.  To this day looking back,
+I actually feel really bad for the guy.  I wish I remembered his name because I would go back and
+apologize to him for being a righteous ass, even after all of these years.</p>
+
+<ul>
+<li>avoid context</li>
+<li>put candidate in a comfortable environment</li>
+</ul>
+
+
+<h2>Avoid</h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Avoiding Paper Tigers, Leeches and Space Cadets]]></title>
+    <link href="http://www.becomingmedium.com/blog/2013/10/28/avoiding-paper-tigers-and-leaches/"/>
+    <updated>2013-10-28T10:53:00-07:00</updated>
+    <id>http://www.becomingmedium.com/blog/2013/10/28/avoiding-paper-tigers-and-leaches</id>
+    <content type="html"><![CDATA[<h3>Recruiting</h3>
+
+<p>One of my favorite aspects about my job is recruiting.  I absolutely love it!  It&rsquo;s true.
+Recruiting allows me to meet a lot of engineers and talk shop.  You  get to learn all about their
+backgrounds, interests, companies they have worked for and amazing projects they have worked on.  If
+you are lucky you also have an amazing technical conversation at some point that leaves everyone
+impressed.  What is not to love?</p>
+
+<!-- more -->
+
+
+<p>Well, I don&rsquo;t love disappointing my team with a candidate.  We have all been there either as a
+hiring manager or a member of the team.  The team is totally pumped and excited to meet whiz bang
+candidate and interview them.  However, after the candidate gets past the introductory phase
+everyone on the interview panel realizes they have been duped.  The candidate turns out to be a
+complete dud.  We are left to wonder how they made it through the screening process and got this
+far?  It sucks and neither the team or the candidate is happy about it.</p>
+
+<p>In this post I am going to introduce you to candidates that I have dubbed <em>paper tigers</em>, <em>leeches</em>
+and <em>space cadets</em>.  These are the candidate types who in my experience you want to avoid like the
+plague.  The problem is how do we identify them and discover them early on in the process?  What
+characteristics do they have in common with great candidates that make them hard to distinguish?
+What questions can we ask them during a phone screen to ferret them out?</p>
+
+<p>I don&rsquo;t have prescriptive answers for all of these questions to be honest.  I think by sharing my
+experience and raising some valid points, you might be able to avoid candidates like this in the
+future providing a better search experience for your team and the prospective candidates.</p>
+
+<h3>Screening 101</h3>
+
+<p>How many times have you read a candidate&rsquo;s resume and thought to yourself how amazing this person is
+and what a great candidate they would make for your open position?  Reviewing resumes and screening
+prospective candidates is not an easy thing to do.  Resumes come in all forms and flavors making it
+difficult sometimes to read whether a candidate has the relevant experience necessary for the job.
+A few things that I have noticed that help in the process include the following:</p>
+
+<ul>
+<li><em>Reject any candidate that doesn&rsquo;t write a personalized cover letter</em> &ndash; It doesn&rsquo;t take that much
+effort to explain why you are interested and why your experience is right for the job then don&rsquo;t
+bother.</li>
+<li><em>Favor resumes that tell a story and really emphasize what the candidate is interested in and
+passionate about</em> &ndash; If people are doing it just for the money they won&rsquo;t make great members of
+your team.</li>
+<li><em>Resumes that illustrate how they used their skills are better than ones that just list everything
+they have ever used</em> &ndash; I dislike people who just mind numblingly list programming languages they
+have used.  You can&rsquo;t tell if they have only played with the language or whether they used it
+professionally</li>
+<li><em>Forget resumes that have more than one grammatical error or spelling mistakes right away</em> &ndash; I
+know this is tough for folks where English isn&rsquo;t their first language.  There are so many tools
+now that to me it reflects effort more than language difficulty.</li>
+<li><em>Weed out resumes that don&rsquo;t contain the relevant experience or work history in them because
+stretch candidates rarely work in practice</em> &ndash; This is just a no brainer to me.</li>
+<li><em>A pet peeve of mine is resumes that are sent as Word docs instead of PDFs especially for
+technology positions</em> &ndash; Send a PDF so I don&rsquo;t have to worry about which version of Word I have
+installed or how crappy the doc gets displayed when converted in Google Docs.</li>
+</ul>
+
+
+<p>Of course there are more tips for screening but this isn&rsquo;t meant to be a comprehensive breakdown of
+how to filter through resumes.  Years ago, Joel Spolsky wrote a nice
+<a href="http://www.joelonsoftware.com/articles/SortingResumes.html">piece</a> on the subject so you can read
+that for reference.</p>
+
+<h3>Paper Tigers</h3>
+
+<p>Like the name I have given them implies, the best way to describe people who fall into this
+category is that they look fantastic on paper but completely underwhelm when interviewed in person.
+They either totally lack on the technical side or something else comes up where they don&rsquo;t impress.
+Not being to totally put my finger on this person here are a few characteristics that I have noticed
+about them.  Here are what you will immediately see when you read their resume:</p>
+
+<ul>
+<li>Their resume is easy to read and really well organized making it clear who they worked for and
+what they worked on.</li>
+<li>The companies they have worked for are well known for their products or development teams and it
+seems they made great contributions to either or both.</li>
+<li>The person has a solid educational background with degrees from well known schools and programs.</li>
+<li>The projects they list are relevant and have a high correlation to the position they are applying
+for.</li>
+<li>They perfectly meet all of the requirements for the level of experience for the position.</li>
+</ul>
+
+
+<p>This all sounds great so where does it go awry?  Well this is what I have found to be true from
+<em>paper tigers</em> when I phone screen or interview them in person:</p>
+
+<ul>
+<li>They tailored their resume to perfectly fit the job description however they neither have the
+skills or the experience required.</li>
+<li>If they are from an agency you find the recruiter just &ldquo;<em>resume stuffed</em>&rdquo; and the person who you
+are speaking with isn&rsquo;t really the person they presented on paper.</li>
+<li>They listed they are qualified in too many technologies, languages and frameworks when you drill
+you confirm your notion that no one person can be an expert in everything they listed.</li>
+<li>When you dig into their experience, you find they are part of a larger team and didn&rsquo;t have the
+hands on experience and had actual little involvement in the project or technology</li>
+<li>Another quality is listing items they haven&rsquo;t worked with in production but it shows up on their
+resume as if they have.</li>
+<li>They lie about the amount of experience and later it comes out that they have much less than they
+claimed because they claim the length of the entire project as their own vs their actual
+involvement in it.</li>
+<li>They did the project on their own time and have never done it professionally but count it as real
+experience on their resume.</li>
+</ul>
+
+
+<h3>Leeches</h3>
+
+<p>The next category I have dubbed <em>Leeches</em> because like a leach, they survive off of the work of
+others.  In their resumes they take credit for others but instead of being caught in the phone
+screen, they pull it off and might not be exposed until you hire them.  When they join your team
+they drain it just like a parasite which is bad for the team&rsquo;s productivity, chemistry and moral.
+Some of the characteristics of this type of candidate include most everything from the <em>paper tiger</em>
+and additionally:</p>
+
+<ul>
+<li>They led or worked with an offshore team or remote team in another location.</li>
+<li>They will claim to have setup or built a team but in reality they had no part in the growth at
+all.</li>
+<li>They indicate they selected a technology or vendor but then never worked with them or were part of
+the implementation.</li>
+<li>There was strong technical leadership on the team that they are trying to take credit for as their
+work and actions and involvement.</li>
+<li>You find out through references that this person isn&rsquo;t in the top half of people that person has
+worked with.</li>
+<li>They know just enough to be dangerous but don&rsquo;t have the full experience and rely on their
+teammates to actually do the work.</li>
+<li>Beware the phantom and exaggerated titles from smaller companies that imply leadership and
+experience but when you drill in they don&rsquo;t have it.</li>
+</ul>
+
+
+<h3>Space Cadet</h3>
+
+<p>This is a more recent category of candidate for me.  Several times in my career I have come across a
+bright individual and think the person could fill in more than one role on the team.  The problem
+with this person is they really don&rsquo;t know what they want to do with their careers.  Sometimes some
+simple coaching can really benefit this type of candidate, but other times you are just dealing with
+a person who really doesn&rsquo;t know what they want to do.  This person I call a <em>space cadet</em> because
+they have no clue and if you bring them on to your team, they will ultimately blow it up like a
+failed rocket launch through their ambivalent actions.</p>
+
+<p>How do you tell if you are talking to a <em>space cadet</em>?  Here are a few things that might help you
+discern them from good candidates:</p>
+
+<ul>
+<li>They work at a very large company where they can kind of drift and hide from real responsibility
+or success.</li>
+<li>The person has worked at their present company for a rather long time.</li>
+<li>They have found a unique position at their current company that doesn&rsquo;t really apply to your
+company.</li>
+<li>The person is unsure whether they want to be a manager or a technical lead.  The main reason they
+are unsure is because they don&rsquo;t really understand the difference between the roles.</li>
+<li>The candidate is usually a really smart and well educated person but you just have a hunch they
+haven&rsquo;t fully applied themselves like other candidates with similar backgrounds have.</li>
+<li>They just totally have no freaking idea what they really want to do or how to effectively use
+their talents.</li>
+</ul>
+
+
+<h3>Discovery Techniques</h3>
+
+<p>I don&rsquo;t have any powerful insights here except to take the time to really get to know the candidate.
+One technique I use is to ask open ended questions and see where the candidate goes with their
+response.  You&rsquo;ll know if they are bluffing or really qualified as you ask more questions that
+involve them sharing the depth of their knowledge.</p>
+
+<p>One example when it comes to roles is:</p>
+
+<blockquote><p>How do you define good software architecture?</p></blockquote>
+
+<p>Totally open ended and doesn&rsquo;t give anything away.  The answer can go anywhere from discussing
+<em>Design Patterns</em> to <a href="http://www.sandimetz.com">Sandi Metz Rules</a></p>
+
+<p>As an example one of my favorite ruby questions was simply:</p>
+
+<blockquote><p>What is the difference between an array and a hash in ruby?</p></blockquote>
+
+<p>If you wind up talking about indexes and the conversation stops there the candidate is pretty
+junior.  If they take it all the way to the C code in the MRI discussing the b-tree search for the
+hash then you know they&rsquo;ve been there and done that!</p>
+
+<p>Another trick I have used to suss people like this out is to ask the same or a related question
+again either during the interview, or for the next round of the interview process.  If candidates
+can&rsquo;t keep their stories and answers straight there is pretty high likelihood of them being a <em>paper
+tiger</em> or a <em>leach</em>.</p>
+
+<p>Let me know what your experience has been!  Have you interviewed these types of candidates and what
+techniques did you use to separate them out from the good candidates you wanted to move ahead with?</p>
+]]></content>
+  </entry>
+  
+</feed>
