@@ -11,7 +11,7 @@ categories: [recruiting, interviewing]
 I recently had a discussion with <a href="https://twitter.com/benkruger"
 target="_blank">@benkruger</a> about interviewing and we both expressed the same frustration.
 Candidates who are being interviewed will do their best to answer your questions.  It is a rare
-event when you find a candidate how asks good questions back.  This led me to share the following
+event when you find a candidate who asks good questions back.  This led me to share the following
 with Ben:
 
 > You learn more about a candidate through the questions they ask, than the answers they give.
