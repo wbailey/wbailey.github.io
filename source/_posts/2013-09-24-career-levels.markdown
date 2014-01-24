@@ -27,7 +27,7 @@ development.  I wanted answers to questions like:
   team?
 * Where do the required years of experience come from and are they just an artificial crutch
   justification?
-* How do you mentor engineers in their career and so that they can grow and learn?
+* How do you mentor engineers in their career so that they can grow and learn?
 
 There are more questions to be answered but this is a good starter set.  Naturally, I searched the web for
 answers.  It turned up a couple of somewhat useful threads on
@@ -55,7 +55,7 @@ answer the following question:
 
 > If you could describe what an engineer at this level will do using only word, what would it be?
 
-A single word is succint, descriptive and most importantly memorable.  It will be easy for your
+A single word is succinct, descriptive and most importantly memorable.  It will be easy for your
 teams to digest and in discussions leverage the simplicity.  A single word is only useful if we can
 provide context so the next step in the framework is to provide a single sentence description of the
 level.
@@ -153,7 +153,7 @@ _At the Senior level you are mentoring your teammates and sharing expertise_
 ### Summary
 
 We have covered a model framework for defining the different levels of any role within an
-organization.  The benefits of the model are that it can be applied to role in the orginization and
+organization.  The benefits of the model are that it can be applied to role in the organization and
 is scalable.   A simple moniker for remembering the model follows below:
 
 > Description -> Context -> Areas of Focus
