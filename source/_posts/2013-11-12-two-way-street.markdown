@@ -17,7 +17,7 @@ with Ben:
 > You learn more about a candidate through the questions they ask, than the answers they give.
 
 It is true and something that no matter what you do as a candidate you must remember.  Be prepared
-ask good questions.
+to ask good questions.
 
 <!--more-->
 
@@ -25,9 +25,9 @@ ask good questions.
 
 So if the success of your interview is determined by the questions you ask, when should you ask
 them?  If you are interviewing with Ben, it will actually be the first thing that you do.  I was
-surprised to learn Ben does this but the more I tought about it, I think it is a great approach.  So
-as a candidate, be prepared from the moment you answer the call or step into the conference room to
-ask your questions.
+surprised to learn Ben does this but the more I thought about it, I think it is a great approach.
+So as a candidate, be prepared from the moment you answer the call or step into the conference room
+to ask your questions.
 
 If you are not interviewing with Ben, and most of us are not, then I suggest incorporating your
 questions into your answer.  This promotes lively discussion and turns the table on the interview
@@ -100,5 +100,4 @@ you never end up in that dead position of having no good and thoughtful question
 your chances of landing the job if you do!
 
 > Kill it by asking great questions!
-
 

@@ -6,7 +6,7 @@ comments: true
 categories: [recruiting, interviewing]
 ---
 
-## Why Interviews Suck
+## Interviews Gone Wrong
 
 If you have read my last few posts you know that I do a LOT of interviewing.  I enjoy it and love
 the conversations that transpire.  The problem is that most interviews are a horrible experience for
@@ -21,7 +21,7 @@ Lately I have had quite a few discussions with folks on what makes a successful 
 you learn the most about a candidate?  What are we trying to accomplish with the interview?  As a
 candidate, how can I show them I am really the right person for the job?  In this post, I am going
 to share a few guidelines for hiring managers that I think lead to a great interview.  If you are
-candidate, you can read this and if you find an experience like the one I describe, you can be
+the candidate, you can read this and if you find an experience like the one I describe, you can be
 better prepared.
 
 ## The Sweaty Guy
@@ -88,7 +88,7 @@ interview:
 * _Use Their Preferred Language_ - Candidates often know several languages so make sure you identify
   which is their preferred language and test them in it.
 
-* _Allow Google_ - Allow them to use google during the technical interview and explain to them it is
+* _Allow Google_ - Allow them to use Google during the technical interview and explain to them it is
   OK to look things up.  We do it all the time in our job, so why should interviewing be any
   different?  This is not about rote memorization and besides, I am old, so my memory registers in
   the head are diminishing.  If I can't look up method signatures and documentation, I surely fail
@@ -116,32 +116,81 @@ A few things on context to keep in mind:
 
 ## Choose Your Panel Wisely
 
-This is an important aspect and yes if you made it this far I am not done with this post.  I still
-don't know how to stash posts in Jekyll.
+This is an important aspect that many overlook.  You have to pay attention to the type of candidate
+you are interviewing and assess who on the team will best be able to judge them?  If you have a very
+senior candidate but have all junior engineers interviewing them you will not be successful.  The
+candidate will not be impressed by your team and the junior engineers might be put off by the
+candidates.
+
+Make sure you have a good mixture of the right people to judge the candidate and to represent your
+team fairly.  If you have small teams then make sure the candidate meets everyone.  If you have a
+larger team, meaning more than 4 people, try splitting into multiple stages with different panels
+for each stage.  This way you don't have the marathon day and you don't waste everyone's time if the
+candidate doesn't work out.
 
 ## Kickoffs and Debriefs
 
-Make sure that you have a kickoff where you have selected the interivew panel and review the role of
-each person on the panel.  
+I really dislike going into an interview where people are totally unprepared and no one knows what
+topics to cover or questions to ask.  Even worse is when you go back for the next round, meet
+different people on the team, but answer the same questions.  Don't be that team!
 
-* matrix of topics to focus on
-* review candidates resume
-* present the background on the interviews to date
-* address any areas to focus on
-* don't sell the candidate
+### Kickoff
 
-Debrief
+Make sure that you have a kickoff meeting to review the role of each person on the panel.  The
+hiring manager should lead the meeting and lead the panel through the following agenda:
 
-* Score them on a scale of 1-5 in each category
-* List out the strengths and weaknesses from the panel
-* evaluate
-* commit to communicating next steps or rejection
+* _Resume Review_ - Make sure you have reviewed it and share why this candidate's resume fit the
+  requirements.
+* _Interview Background_ - Don't sell the candidate but share the information about the interview
+  process to date and why the candidate made it this far.
+* _Topic Matrix_ - Cover the topics that need to be covered with the candidate and setup a matrix of
+  which panel members will cover each.
+* _Schedule_ - Define and review the schedule and make sure that everyone understands what
+  conference room they are going to be in and when with a focus on timeliness.
 
-## The Two Way Street
+I'd like to point out that in addition to the topics in the matrix, everyone on the interview panel
+should evaluate that candidate on the following:
 
-The whole point of all this was to make sure that in the end you provide a two way street of
-communication in the interview.  This way the candidate learns about you and you learn about the
-candidate
+* _Communication Skills_ - Does the candidate posses the communication skills necessary to work with the
+  team?
+* _Culture Fit_ - Do you feel the candidate is a good culture fit and why?
+* _Questions Asked_ - Did the candidate do a good job of asking intelligent and relevant questions? 
 
+One thing to make sure of when planning the individual interviews is to allow the candidate to have
+ample time to ask their questions.  Remember that [interviewing is a two way
+street](/blog/2014/01/04/two-way-street/).
 
+### Debrief
+
+The debrief is the critical component to all of this.  After you are done interviewing the candidate
+you have to meet with the team to determine next steps.  In my experience, the sooner you do this
+the better.  You want everything to be fresh in everyone's mind so that their notes still make
+sense.  
+
+Here is an example agenda for this meeting with the interview panel being the attendees:
+
+* _Scoring_ - Take your matrix and have the team score the candidate on a scale of 1-5 in each
+  category they covered.  They should also score the candidate on the 3 overall requirements
+  described above as well.
+
+At this point you evaluate the scoring and use the following rules:
+
+* _>4_ - Move to the next round or make offer
+* _<3_ - Rejection and move on
+
+If they are between a 3 and a 4 then you do the following:
+
+* _Strengths/Weaknesses_ - List out the strengths and weaknesses from the panel.  This is important
+  so that focus on a particular negative doesn't become the focus of the conversation leading to
+  rejection of a perfectly good candidate.
+* _Evaluate_ - During the evaluation you review the voting and continue to list the strengths and
+  weaknesses of the candidate.
+* _Decision_ - After time boxing the evaluation discussion, arrive at a decision based on the
+  information retrieved from the team.
+
+During the discussion you will see wha the team thinks the candidate's strengths are and if it
+warrants another round or not.  Regardless of how you come to the decision be sure to commit to it
+and communicate it to the candidate.  It is very important to do this when you are rejecting a
+candidate.  We all have been there waiting for an answer and not hearing back.  It is a terrible
+experience so don't put candidates through this and just let them know.  They'll thank you for it.
 
