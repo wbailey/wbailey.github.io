@@ -153,8 +153,8 @@ _At the Senior level you are mentoring your teammates and sharing expertise_
 ### Summary
 
 We have covered a model framework for defining the different levels of any role within an
-organization.  The benefits of the model are that it can be applied to role in the organization and
-is scalable.   A simple moniker for remembering the model follows below:
+organization.  The benefits of the model are that it can be applied to any role in the organization
+and is scalable.   A simple moniker for remembering the model follows below:
 
 > Description -> Context -> Areas of Focus
 
@@ -164,5 +164,5 @@ different levels in the defined role easily.  It is technology and years of expe
 instead judging engineers on their ability to go from individual to more team focused contributors.
 It also makes learning and mentoring a key component of how the team will judge it's success.
 
-The one question is doesn't answer is where the years of experience numbers come from?  Honestly, I
+The one question it doesn't answer is where the years of experience numbers come from?  Honestly, I
 have no idea and nor do I need to care anymore when writing a new job description! 
