@@ -36,7 +36,7 @@ them answering my questions which led to more questions from both parties.  It w
 
 ## What to Ask?
 
-I can't provide for what to ask for every type of interview because that is impossible.  What I can
+I can't provide what to ask for every type of interview because that is impossible.  What I can
 share is there is nothing worse from a hiring manager's perspective to be all excited about a
 candidate and here them say:
 
