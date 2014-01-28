@@ -8,7 +8,7 @@ categories: [recruiting, interviewing]
 
 ## Interviews Gone Wrong
 
-If you have read my last few posts you know that I do a LOT of interviewing.  I enjoy it and love
+If you have read my last few posts, you know that I do a LOT of interviewing.  I enjoy it and love
 the conversations that transpire.  The problem is that most interviews are a horrible experience for
 everyone involved.  As a candidate you have to do the mind numbing walk through of everywhere you
 ever worked because no who is interviewing you bothered to read your resume.  As a panel member, you
@@ -32,7 +32,7 @@ There were 6 of us and the candidate crammed into a tiny conference room where w
 the proverbial _tell us about your background_ question because not all of us had read his resume or
 prepared for the interview.  The candidate started to share his experience and soon enough we were
 asking him questions.  Smelling fear, we started to circle around this guy like a pack of blood
-thirsty sharks, asking him questions that soon because apparent were above his skill level.  It got
+thirsty sharks, asking him questions that soon became apparent were above his skill level.  It got
 hotter and hotter in the room and then the poor candidate started to sweat profusely from the heat
 and the pressure of the situation.
 
@@ -131,7 +131,7 @@ candidate doesn't work out.
 ## Kickoffs and Debriefs
 
 I really dislike going into an interview where people are totally unprepared and no one knows what
-topics to cover or questions to ask.  Even worse is when you go back for the next round, meet
+topics to cover or questions to ask me.  Even worse is when you go back for the next round, meet
 different people on the team, but answer the same questions.  Don't be that team!
 
 ### Kickoff
@@ -151,8 +151,8 @@ hiring manager should lead the meeting and lead the panel through the following 
 I'd like to point out that in addition to the topics in the matrix, everyone on the interview panel
 should evaluate that candidate on the following:
 
-* _Communication Skills_ - Does the candidate posses the communication skills necessary to work with the
-  team?
+* _Communication Skills_ - Does the candidate possess the communication skills necessary to work
+  with the team?
 * _Culture Fit_ - Do you feel the candidate is a good culture fit and why?
 * _Questions Asked_ - Did the candidate do a good job of asking intelligent and relevant questions? 
 
@@ -164,8 +164,8 @@ street](/blog/2014/01/04/two-way-street/).
 
 The debrief is the critical component to all of this.  After you are done interviewing the candidate
 you have to meet with the team to determine next steps.  In my experience, the sooner you do this
-the better.  You want everything to be fresh in everyone's mind so that their notes still make
-sense.  
+the better.  You want everything to be fresh in everyone's mind so that their notes/memories still
+make sense.  
 
 Here is an example agenda for this meeting with the interview panel being the attendees:
 
@@ -188,7 +188,7 @@ If they are between a 3 and a 4 then you do the following:
 * _Decision_ - After time boxing the evaluation discussion, arrive at a decision based on the
   information retrieved from the team.
 
-During the discussion you will see wha the team thinks the candidate's strengths are and if it
+During the discussion you will see what the team thinks the candidate's strengths are and if it
 warrants another round or not.
 
 ## Pay it Forward
