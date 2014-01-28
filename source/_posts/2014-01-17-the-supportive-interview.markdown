@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Supportive Interview"
+title: "The Supportive Technical Interview"
 date: 2014-01-17 22:02
 comments: true
 categories: [recruiting, interviewing]
@@ -90,9 +90,9 @@ interview:
 
 * _Allow Google_ - Allow them to use Google during the technical interview and explain to them it is
   OK to look things up.  We do it all the time in our job, so why should interviewing be any
-  different?  This is not about rote memorization and besides, I am old, so my memory registers in
-  the head are diminishing.  If I can't look up method signatures and documentation, I surely fail
-  the test.  Does that mean I can't write good code?  Hardly!
+  different?  This is not about rote memorization and besides, I am old, so the memory registers in
+  my head are diminishing.  If I can't look up method signatures and documentation, I will surely
+  fail the test.  Does that mean I can't write good code?  Hardly!
 
 ## Avoid Context
 
@@ -120,7 +120,7 @@ This is an important aspect that many overlook.  You have to pay attention to th
 you are interviewing and assess who on the team will best be able to judge them?  If you have a very
 senior candidate but have all junior engineers interviewing them you will not be successful.  The
 candidate will not be impressed by your team and the junior engineers might be put off by the
-candidates.
+candidate.
 
 Make sure you have a good mixture of the right people to judge the candidate and to represent your
 team fairly.  If you have small teams then make sure the candidate meets everyone.  If you have a
