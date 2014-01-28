@@ -189,8 +189,14 @@ If they are between a 3 and a 4 then you do the following:
   information retrieved from the team.
 
 During the discussion you will see wha the team thinks the candidate's strengths are and if it
-warrants another round or not.  Regardless of how you come to the decision be sure to commit to it
-and communicate it to the candidate.  It is very important to do this when you are rejecting a
-candidate.  We all have been there waiting for an answer and not hearing back.  It is a terrible
-experience so don't put candidates through this and just let them know.  They'll thank you for it.
+warrants another round or not.
+
+## Pay it Forward
+
+Regardless of how you come to the decision be sure to commit to it and communicate it to the
+candidate.  It is very important to do this when you are rejecting a candidate.  We all have been
+there waiting for an answer and not hearing back.  It is a terrible experience so don't put
+candidates through this and just let them know.  They'll thank you for it and most likely they will
+share they had a good experience interviewing with you with their friends.  Remember, it is a small
+world out there in technology so pay it forward..
 

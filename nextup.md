@@ -7,3 +7,7 @@
 * Follow Through - This is the key to being a successful manager and
   leader.  More than communication, it is important to follow up on
   commitments and team problems, issues and work being done.
+
+* Listen vs hearing
+
+* process vs empowerment
