@@ -198,5 +198,5 @@ candidate.  It is very important to do this when you are rejecting a candidate. 
 there waiting for an answer and not hearing back.  It is a terrible experience so don't put
 candidates through this and just let them know.  They'll thank you for it and most likely they will
 share they had a good experience interviewing with you with their friends.  Remember, it is a small
-world out there in technology so pay it forward..
+world out there in technology so pay it forward.
 
