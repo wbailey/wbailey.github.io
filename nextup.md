@@ -11,3 +11,15 @@
 * Listen vs hearing
 
 * process vs empowerment
+
+* Less is more
+
+* ownership = pride = quality
+
+* prod = eng = 50% balance
+
+* It's ok to not be a full stack developer
+
+* sexism in the valley
+
+* the myth of the coding leader 
