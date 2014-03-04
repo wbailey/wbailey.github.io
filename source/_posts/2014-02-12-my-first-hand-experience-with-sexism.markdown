@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-## What to do?
+## But you are a guy?
 
 It's true.  I had a first hand experience with sexism that was so blatant and offensive, I didn't
 know what to do in the moment.  I'll give the full details in the core of this post but for now I
