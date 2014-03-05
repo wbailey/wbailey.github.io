@@ -34,19 +34,18 @@ out of the gate it happened.  His first question to me:
 > women?"
 
 Wait, what?  Did he really just ask that question?  Before I could even get a word out about how it
-wasn't the first thing on my mind he shares this gem:
+wasn't the first thing on my mind he kept talking.  I had no time to react or chime in because he
+just kept going.  He was almost shouting out me for the next 5-10 minutes as he rambled on and on
+stating that women were incapable and defending this ridiculous position.
 
-> "The reason why is that women are incapable of making the tough decisions necessary to run a
-> profitable company on low margins."
+> "Women are incapable of making the tough decisions necessary to run a profitable company on low
+> margins." - Shit for Brains CEO of a Women's Product Retailer
 
-He didn't stop there believe it or not.  I had no time to react or chime in because he just kept
-going.  He was almost shouting out me for the next 5-10 minutes as he rambled on and on defending
-his initial position that women were incapable.
 
 You should know this about me.  I don't do well around _alpha males_.  I personally think saying
-your an _alpha male_ is as inexcusable justification for being an asshole.  I don't have time for it
-and don't want to be associated with people like this.  I choose to lead by example and just quietly
-walk away and ignore these people rather than argue or fight back.
+you are this type of person is an inexcusable justification for being an asshole.  I don't have time
+for it and don't want to be associated with people like this.  I choose to lead by example and just
+quietly walk away and ignore these people rather than argue or fight back.
 
 Now you understand while he was ranting I didn't say anything.  I just sat there, first completely
 stunned, then waiting patiently and politely for him to finish.  It was easy to surmise this guy was
@@ -54,14 +53,15 @@ a complete jerk and I resolved in my mind the interview was over and I would nev
 jerk or this company.
 
 The moment finally came where he shut up and he asked me if I had any questions.  Normally I would
-go into my list but I just politely said I had no questions but did need to go to the bathroom.  He
-gave me a funny look, and I proceeded to get up as the CTO was giving me directions to the restroom.
+go into my list but I just politely said I had no questions but indicated I did need to go to the
+bathroom.  He gave me a funny look, and I proceeded to get up and the CTO started giving me
+directions to the restroom.
+
+> "What an ass", I thought as he held out a hand.
+
 He walked around the table and in front of me, put out his hand and shared it was nice to meet me
-and thanked me for coming in.
-
-> "What an ass", I thought as he held out a hand that I wouldn't shake.
-
-I said it was nice to meet him but I didn't shake his hand and proceeded to walk out of the room.
+and thanked me for coming in.  I didn't say anything. I just pursed my lips, shook his hand and
+proceeded to walk out of the room.
 
 ## What the hell just happened?
 
@@ -75,22 +75,34 @@ didn't share his terrible views with anyone else on the management team.
 
 ## What to do?
 
-I left and immediately I started reflecting on the day.  The one question I had for myself:
+I left and immediately I started reflecting on the day.  How could the President and CTO just sit
+there, quietly, neither refuting or acknowledging what he said?  Did they believe it as well?  They
+seemed like such nice people who were both married and had daughters.  How could allow this to
+happen?  Was it the money?  How sad!
+
+I then turned inward.  I thought of the women in my life, my wife of almost 18yrs and my little 4.5
+year old daughters.  What would they think of their father for not saying anything and letting this
+jerk spew his sexist beliefs?
 
 > "How could I just sit there and not say anything?"
 
-Would my girls be proud of me for just sitting there and letting this jerk spew his sexist views?
-How could I look them in the eye and tell them that their father didn't defend them?  How could I
-look at my wife who has a great professional career and not feel like I let her down?  How could I
-just sit there when I had the opportunity to speak for every women in the world and tell this guy to
-crawl back into the cave whence he came?
+I felt small, really small for not confronting him.  That night I couldn't sleep and felt this heavy
+burden to do something.  But what?  What should I do?  The moment had passed to confront him
+personally.
 
+## Was it a test?
 
+I wrote a post on Facebook describing the situation to my friends and asking them what I should do.
+I clearly made up my mind I wouldn't be moving forward with the company and had to communicate that.
+Surprisingly most of my women friends and my wife advised me to just let it go without bringing it
+up when I rejected them.
 
- night I couldn't sleep.  I have three
-very important women in my life, my wife and my beautiful identical twin girls who are 4.5 years
-old.  I just kept thinking about how much I let them down, how I should have taken a stance and
-responded by letting this jerk know what an ass he really was.
+A couple of people suggested it was a test.  The hypothesis being that the management team wanted to
+see how I would react and conduct myself around a controversial or difficult situation.  How could
+you possibly use this as some way to test someone's leadership capabilities?  Would they inflict
+some test scenario on a female candidate that would make her feel equally uncomfortable?  What did
+they hope to accomplish by going down a path that any HR Generalist would tell you to completely
+avoid?
 
 
 

@@ -15,6 +15,7 @@ group :development do
   gem 'stringex'
   gem 'liquid'
   gem "directory_watcher", "~> 1.4.1"
+  #gem "directory_watcher"
   gem 'debugger'
 end
 
