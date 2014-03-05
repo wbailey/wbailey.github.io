@@ -6,16 +6,16 @@ comments: true
 categories: 
 ---
 
-## But you are a guy?
-
-It's true.  I had a first hand experience with sexism that was so blatant and offensive, I didn't
-know what to do in the moment.  I'll give the full details in the core of this post but for now I
-want you to ask yourself, what would you do?  Would you stand up and shout?  Would you cower and
-wither and just let the situation proceed?  Would you find the courage to speak up?
+I recently had a first hand experience with sexism that was so blatant and offensive, I didn't know
+what to do in the moment.  I'll give the full details in the core of this post but for now I want
+you to ask yourself, what would you do?  Would you stand up and shout?  Would you cower and wither
+and just let the situation proceed?  Would you find the courage to speak up?  Would you think of all
+the women out there who face this type of experience every day?  Would you want to change the
+situation and people's mindset so this never happened to any girl growing up today?
 
 <!--more-->
 
-## Tell me the story!
+## The Experience
 
 I'll get right to it.  I was interviewing with a company recently who reached out to me based on my
 experience in the industry.  We weren't really sure what role I would fill but after a great
@@ -57,7 +57,7 @@ go into my list but I just politely said I had no questions but indicated I did 
 bathroom.  He gave me a funny look, and I proceeded to get up and the CTO started giving me
 directions to the restroom.
 
-> "What an ass", I thought as he held out a hand.
+> "What an ass" I thought as he held out a hand.
 
 He walked around the table and in front of me, put out his hand and shared it was nice to meet me
 and thanked me for coming in.  I didn't say anything. I just pursed my lips, shook his hand and
