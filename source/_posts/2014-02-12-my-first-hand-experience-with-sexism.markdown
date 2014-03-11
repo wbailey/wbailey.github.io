@@ -117,5 +117,34 @@ just ignore it.  It saddened me to hear that because it just reinforced my fear 
 up with this all the time.  I was feeling their frequent experience for the first time and it made
 me angry and left me feeling helpless.
 
-## Address It and Share
+## The Lack of Acknowledgement
 
+I could not just be quite about it so I decided to address it when I withdrew from consideration.
+
+> There were also statements made yesterday about contributions and capabilities of women that I
+> disagree with.  I expected a team and culture that would embrace positive contributions from a
+> broad base of people and perspectives.
+
+I was hoping for a response that would explain the CEO's actions but instead I got an all the best
+wish, completely ignoring the sexist statements and their presentation to me.  Later when the
+recruiter discussed the situation with them their response was:
+
+> "It was just a misunderstanding", CTO of said company
+
+I couldn't believe this!  Implying it's my fault somehow?  Now I really empathized with all the
+women who were victims of assault or rape.  To me, this is equivalent to videoing an assault or
+rape, doing nothing to stop it and later claiming you didn't have a part in it.  Yes you did.
+
+## Sharing
+
+I decided to share this story because it is the right thing to do.  I haven't named anyone and I
+won't going forward.  Hopefully the people involved will read this post and reconsider their
+positions and how they conduct themselves.  
+
+Sadly, sexism is alive and well in my industry.  I am sad I had to experience this but in some
+respect glad I did.  It gave me a firsthand experience of what it is like to experience sexism.  I
+want my fellow male counterparts to stop being complicit when this type of behavior or mentality is
+presented.  We have the opportunity to just say no and we should.  I'll never sit quiet again and
+you shouldn't either!
+
+What would you do?  What should you do?
