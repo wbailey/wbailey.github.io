@@ -18,14 +18,14 @@ situation and people's mindset so this never happened to any girl growing up tod
 ## The Experience
 
 I'll get right to it.  I was interviewing with a company recently who reached out to me based on my
-experience in the industry.  We weren't really sure what role I would fill but after a great
-conversation with the CTO I agreed to come in for an in person interview with more members of the
+experience in the industry.  We weren't really sure what role I would fill, but after a great
+conversation with the CTO, I agreed to come in for an in person interview with more members of the
 management team.
 
 I had dedicated the day to come into the office and after being met by the CTO and given a tour of
-the office I sat down with him and the President of the company.  The interview involved some
-general questions about background and general management philosophies.  After about an hour the CTO
-invited the CEO to join us.  Usually a good sign at this point that things are moving along well.
+the office I sat down with him and the President of the company.  The interview involved questions
+about background and general management philosophies.  After about an hour the CTO invited the CEO
+to join us.  Usually a good sign at this point that things are moving along well.
 
 The CEO seemed nice enough when we first shook hands.  Pleasantries were exchanged and then right
 out of the gate it happened.  His first question to me:
@@ -33,14 +33,13 @@ out of the gate it happened.  His first question to me:
 > "Do you wonder why there are no women on the management team at a company who's product is for
 > women?"
 
-Wait, what?  Did he really just ask that question?  Before I could even get a word out about how it
-wasn't the first thing on my mind he kept talking.  I had no time to react or chime in because he
+Wait, what?  Did he really just ask that question?  I started to share it wasn't the first thing on
+my mind but he started back up and just kept talking.  I had no time to react or chime in because he
 just kept going.  He was almost shouting out me for the next 5-10 minutes as he rambled on and on
 stating that women were incapable and defending this ridiculous position.
 
 > "Women are incapable of making the tough decisions necessary to run a profitable company on low
 > margins." - Shit for Brains CEO of a Women's Product Retailer
-
 
 You should know this about me.  I don't do well around _alpha males_.  I personally think saying
 you are this type of person is an inexcusable justification for being an asshole.  I don't have time
@@ -79,7 +78,6 @@ there, quietly, neither refuting or acknowledging what he said?  Did they believ
 seemed like such nice people who were both married and had daughters.  How could allow this to
 happen?  Was it the money?  How sad!
 
-
 ## Was it a test?
 
 I wrote a post on Facebook describing the situation to my friends and asking them what I should do.
@@ -106,10 +104,10 @@ I felt small, really small for not confronting him.  That night I couldn't sleep
 burden to do something.  But what?  What should I do?  The moment had passed to confront him
 personally.
 
-The next morning I told the recruiter the story and she was horrified.  She couldn't believe that he
-said it and that the people she knew in the room condoned the behavior.  Of course she agreed I
-should withdraw from consideration.  What they didn't know how to handle was approaching the topic
-of conversation.  
+The next morning I told the recruiter the story and they were horrified.  The recruiter couldn't
+believe that he said it and that the people she knew in the room condoned the behavior.  Of course
+we agreed I should withdraw from consideration.  What they didn't know how to handle was approaching
+the topic of conversation.  
 
 Going back to FB post, the overwhelming majority said I should just let it go and not bring it up or
 address it any way.  This really surprised me especially considering how many women said I should
@@ -119,7 +117,7 @@ me angry and left me feeling helpless.
 
 ## The Lack of Acknowledgement
 
-I could not just be quite about it so I decided to address it when I withdrew from consideration.
+I could not just be quiet about it so I decided to address it when I withdrew from consideration.
 
 > There were also statements made yesterday about contributions and capabilities of women that I
 > disagree with.  I expected a team and culture that would embrace positive contributions from a
@@ -131,8 +129,8 @@ recruiter discussed the situation with them their response was:
 
 > "It was just a misunderstanding", CTO of said company
 
-I couldn't believe this!  Implying it's my fault somehow?  Now I really empathized with all the
-women who were victims of assault or rape.  To me, this is equivalent to videoing an assault or
+I couldn't believe this!  Implying it was my fault somehow?  Now I really empathized with all the
+women who were victims of assault or rape.  To me, this was equivalent to videoing an assault or
 rape, doing nothing to stop it and later claiming you didn't have a part in it.  Yes you did.
 
 ## Sharing
