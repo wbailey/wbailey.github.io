@@ -69,26 +69,16 @@ As I walked downstairs to the bathroom all I could think was what the hell just 
 what to do next?  Do I just call it quits and head home?  Do I talk to the rest of the team when
 there is no point going forward?
 
-I decided to go forward and me with the VP or Product and the Chief Architect.  Unlike the CEO they
-were really nice people and I enjoyed my conversations with them.  It gave me hope that the CEO
-didn't share his terrible views with anyone else on the management team.
-
-## What to do?
+I decided to go forward and meet with the VP of Product and the Chief Architect just to connect and
+see if they were overtly sexist.  Unlike the CEO they were really nice people and I enjoyed my
+conversations with them.  It gave me hope that the CEO didn't share his terrible views with anyone
+else on the management team.
 
 I left and immediately I started reflecting on the day.  How could the President and CTO just sit
 there, quietly, neither refuting or acknowledging what he said?  Did they believe it as well?  They
 seemed like such nice people who were both married and had daughters.  How could allow this to
 happen?  Was it the money?  How sad!
 
-I then turned inward.  I thought of the women in my life, my wife of almost 18yrs and my little 4.5
-year old daughters.  What would they think of their father for not saying anything and letting this
-jerk spew his sexist beliefs?
-
-> "How could I just sit there and not say anything?"
-
-I felt small, really small for not confronting him.  That night I couldn't sleep and felt this heavy
-burden to do something.  But what?  What should I do?  The moment had passed to confront him
-personally.
 
 ## Was it a test?
 
@@ -104,11 +94,28 @@ some test scenario on a female candidate that would make her feel equally uncomf
 they hope to accomplish by going down a path that any HR Generalist would tell you to completely
 avoid?
 
+## What to do?
 
+I then turned inward.  I thought of the women in my life, my wife of almost 18yrs and my little 4.5
+year old daughters.  What would they think of their father for not saying anything and letting this
+jerk spew his sexist beliefs?
 
-I really don't know where to start with this post.  What I am going to share will be shocking and
-infuriating to many.  To others it will be a very familiar experience they deal with on a daily
-basis which is nothing but sad.  After much thought I have decided to share this story so that in
-some way I might make a small impact and hope for this to never happen again.  It will no less and
-the perpetrators will continue to be sexist and do what they did with me.
+> "How could I just sit there and not say anything?"
+
+I felt small, really small for not confronting him.  That night I couldn't sleep and felt this heavy
+burden to do something.  But what?  What should I do?  The moment had passed to confront him
+personally.
+
+The next morning I told the recruiter the story and she was horrified.  She couldn't believe that he
+said it and that the people she knew in the room condoned the behavior.  Of course she agreed I
+should withdraw from consideration.  What they didn't know how to handle was approaching the topic
+of conversation.  
+
+Going back to FB post, the overwhelming majority said I should just let it go and not bring it up or
+address it any way.  This really surprised me especially considering how many women said I should
+just ignore it.  It saddened me to hear that because it just reinforced my fear that women just put
+up with this all the time.  I was feeling their frequent experience for the first time and it made
+me angry and left me feeling helpless.
+
+## Address It and Share
 
