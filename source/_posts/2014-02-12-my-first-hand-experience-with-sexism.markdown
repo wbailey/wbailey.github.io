@@ -39,7 +39,7 @@ just kept going.  He was almost shouting out me for the next 5-10 minutes as he 
 stating that women were incapable and defending this ridiculous position.
 
 > "Women are incapable of making the tough decisions necessary to run a profitable company on low
-> margins." - Shit for Brains CEO of a Women's Product Retailer
+> margins." - CEO of a Women's Product Retailer
 
 You should know this about me.  I don't do well around _alpha males_.  I personally think saying
 you are this type of person is an inexcusable justification for being an asshole.  I don't have time
