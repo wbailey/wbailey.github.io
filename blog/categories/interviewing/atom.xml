@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: interviewing | Becoming Medium]]></title>
-  <link href="http://www.becomingmedium.com/blog/categories/interviewing/atom.xml" rel="self"/>
-  <link href="http://www.becomingmedium.com/"/>
-  <updated>2014-03-11T10:52:27-07:00</updated>
-  <id>http://www.becomingmedium.com/</id>
+  <link href="http://becomingmedium.com/blog/categories/interviewing/atom.xml" rel="self"/>
+  <link href="http://becomingmedium.com/"/>
+  <updated>2014-03-13T09:45:20-07:00</updated>
+  <id>http://becomingmedium.com/</id>
   <author>
     <name><![CDATA[Wes Bailey]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Supportive Technical Interview]]></title>
-    <link href="http://www.becomingmedium.com/blog/2014/01/17/the-supportive-interview/"/>
+    <link href="http://becomingmedium.com/blog/2014/01/17/the-supportive-interview/"/>
     <updated>2014-01-17T22:02:00-08:00</updated>
-    <id>http://www.becomingmedium.com/blog/2014/01/17/the-supportive-interview</id>
+    <id>http://becomingmedium.com/blog/2014/01/17/the-supportive-interview</id>
     <content type="html"><![CDATA[<h2>Interviews Gone Wrong</h2>
 
 <p>If you have read my last few posts, you know that I do a LOT of interviewing.  I enjoy it and love
@@ -234,9 +234,9 @@ world out there in technology so pay it forward.</p>
   
   <entry>
     <title type="html"><![CDATA[Interviewing is a Two Way Street]]></title>
-    <link href="http://www.becomingmedium.com/blog/2014/01/04/two-way-street/"/>
+    <link href="http://becomingmedium.com/blog/2014/01/04/two-way-street/"/>
     <updated>2014-01-04T20:03:00-08:00</updated>
-    <id>http://www.becomingmedium.com/blog/2014/01/04/two-way-street</id>
+    <id>http://becomingmedium.com/blog/2014/01/04/two-way-street</id>
     <content type="html"><![CDATA[<h2>No Questions</h2>
 
 <p>I recently had a discussion with <a href="https://twitter.com/benkruger" target="_blank">@benkruger</a>

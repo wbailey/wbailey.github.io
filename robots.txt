@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://www.becomingmedium.com/sitemap.xml 
+Sitemap: http://becomingmedium.com/sitemap.xml 

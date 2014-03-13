@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: job searching | Becoming Medium]]></title>
-  <link href="http://www.becomingmedium.com/blog/categories/job-searching/atom.xml" rel="self"/>
-  <link href="http://www.becomingmedium.com/"/>
-  <updated>2014-03-11T10:52:27-07:00</updated>
-  <id>http://www.becomingmedium.com/</id>
+  <link href="http://becomingmedium.com/blog/categories/job-searching/atom.xml" rel="self"/>
+  <link href="http://becomingmedium.com/"/>
+  <updated>2014-03-13T09:45:20-07:00</updated>
+  <id>http://becomingmedium.com/</id>
   <author>
     <name><![CDATA[Wes Bailey]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Avoiding Paper Tigers, Leeches and Space Cadets]]></title>
-    <link href="http://www.becomingmedium.com/blog/2013/10/28/avoiding-paper-tigers-and-leaches/"/>
+    <link href="http://becomingmedium.com/blog/2013/10/28/avoiding-paper-tigers-and-leaches/"/>
     <updated>2013-10-28T10:53:00-07:00</updated>
-    <id>http://www.becomingmedium.com/blog/2013/10/28/avoiding-paper-tigers-and-leaches</id>
+    <id>http://becomingmedium.com/blog/2013/10/28/avoiding-paper-tigers-and-leaches</id>
     <content type="html"><![CDATA[<h3>Recruiting</h3>
 
 <p>One of my favorite aspects about my job is recruiting.  I absolutely love it!  It&rsquo;s true.

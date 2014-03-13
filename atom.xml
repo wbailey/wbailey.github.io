@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Becoming Medium]]></title>
-  <link href="http://www.becomingmedium.com/atom.xml" rel="self"/>
-  <link href="http://www.becomingmedium.com/"/>
-  <updated>2014-03-11T10:52:27-07:00</updated>
-  <id>http://www.becomingmedium.com/</id>
+  <link href="http://becomingmedium.com/atom.xml" rel="self"/>
+  <link href="http://becomingmedium.com/"/>
+  <updated>2014-03-13T09:45:20-07:00</updated>
+  <id>http://becomingmedium.com/</id>
   <author>
     <name><![CDATA[Wes Bailey]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[My First Hand Experience with Sexism]]></title>
-    <link href="http://www.becomingmedium.com/blog/2014/02/12/my-first-hand-experience-with-sexism/"/>
+    <link href="http://becomingmedium.com/blog/2014/02/12/my-first-hand-experience-with-sexism/"/>
     <updated>2014-02-12T20:25:00-08:00</updated>
-    <id>http://www.becomingmedium.com/blog/2014/02/12/my-first-hand-experience-with-sexism</id>
+    <id>http://becomingmedium.com/blog/2014/02/12/my-first-hand-experience-with-sexism</id>
     <content type="html"><![CDATA[<p>I recently had a first hand experience with sexism that was so blatant and offensive, I didn&rsquo;t know
 what to do in the moment.  I&rsquo;ll give the full details in the core of this post but for now I want
 you to ask yourself, what would you do?  Would you stand up and shout?  Would you cower and wither
@@ -164,9 +164,9 @@ you shouldn&rsquo;t either!</p>
   
   <entry>
     <title type="html"><![CDATA[The Supportive Technical Interview]]></title>
-    <link href="http://www.becomingmedium.com/blog/2014/01/17/the-supportive-interview/"/>
+    <link href="http://becomingmedium.com/blog/2014/01/17/the-supportive-interview/"/>
     <updated>2014-01-17T22:02:00-08:00</updated>
-    <id>http://www.becomingmedium.com/blog/2014/01/17/the-supportive-interview</id>
+    <id>http://becomingmedium.com/blog/2014/01/17/the-supportive-interview</id>
     <content type="html"><![CDATA[<h2>Interviews Gone Wrong</h2>
 
 <p>If you have read my last few posts, you know that I do a LOT of interviewing.  I enjoy it and love
@@ -327,7 +327,7 @@ with the team?</li>
 
 
 <p>One thing to make sure of when planning the individual interviews is to allow the candidate to have
-ample time to ask their questions.  Remember that <a href="http://www.becomingmedium.com/blog/2014/01/04/two-way-street/">interviewing is a two way
+ample time to ask their questions.  Remember that <a href="http://becomingmedium.com/blog/2014/01/04/two-way-street/">interviewing is a two way
 street</a>.</p>
 
 <h3>Debrief</h3>
@@ -383,9 +383,9 @@ world out there in technology so pay it forward.</p>
   
   <entry>
     <title type="html"><![CDATA[Interviewing is a Two Way Street]]></title>
-    <link href="http://www.becomingmedium.com/blog/2014/01/04/two-way-street/"/>
+    <link href="http://becomingmedium.com/blog/2014/01/04/two-way-street/"/>
     <updated>2014-01-04T20:03:00-08:00</updated>
-    <id>http://www.becomingmedium.com/blog/2014/01/04/two-way-street</id>
+    <id>http://becomingmedium.com/blog/2014/01/04/two-way-street</id>
     <content type="html"><![CDATA[<h2>No Questions</h2>
 
 <p>I recently had a discussion with <a href="https://twitter.com/benkruger" target="_blank">@benkruger</a>
@@ -480,9 +480,9 @@ your chances of landing the job if you do!</p>
   
   <entry>
     <title type="html"><![CDATA[Avoiding Paper Tigers, Leeches and Space Cadets]]></title>
-    <link href="http://www.becomingmedium.com/blog/2013/10/28/avoiding-paper-tigers-and-leaches/"/>
+    <link href="http://becomingmedium.com/blog/2013/10/28/avoiding-paper-tigers-and-leaches/"/>
     <updated>2013-10-28T10:53:00-07:00</updated>
-    <id>http://www.becomingmedium.com/blog/2013/10/28/avoiding-paper-tigers-and-leaches</id>
+    <id>http://becomingmedium.com/blog/2013/10/28/avoiding-paper-tigers-and-leaches</id>
     <content type="html"><![CDATA[<h3>Recruiting</h3>
 
 <p>One of my favorite aspects about my job is recruiting.  I absolutely love it!  It&rsquo;s true.
@@ -676,9 +676,9 @@ techniques did you use to separate them out from the good candidates you wanted 
   
   <entry>
     <title type="html"><![CDATA[A Flexible Framework for Leveling Software Engineers]]></title>
-    <link href="http://www.becomingmedium.com/blog/2013/09/24/career-levels/"/>
+    <link href="http://becomingmedium.com/blog/2013/09/24/career-levels/"/>
     <updated>2013-09-24T11:43:00-07:00</updated>
-    <id>http://www.becomingmedium.com/blog/2013/09/24/career-levels</id>
+    <id>http://becomingmedium.com/blog/2013/09/24/career-levels</id>
     <content type="html"><![CDATA[<h3>The Problem</h3>
 
 <p>Defining a Senior Software Engineer seems to be a pretty difficult task for our industry.  Managing
@@ -859,9 +859,9 @@ have no idea and nor do I need to care anymore when writing a new job descriptio
   
   <entry>
     <title type="html"><![CDATA[The Five Stages of Learning]]></title>
-    <link href="http://www.becomingmedium.com/blog/2013/09/06/the-five-stages-of-learning/"/>
+    <link href="http://becomingmedium.com/blog/2013/09/06/the-five-stages-of-learning/"/>
     <updated>2013-09-06T16:38:00-07:00</updated>
-    <id>http://www.becomingmedium.com/blog/2013/09/06/the-five-stages-of-learning</id>
+    <id>http://becomingmedium.com/blog/2013/09/06/the-five-stages-of-learning</id>
     <content type="html"><![CDATA[<p>We just completed our semi-annual performance review cycle at ModCloth.  In many of my discussions
 delivering the reviews we discussed learning.  In each case I shared a pearl of wisdom taught to me
 by an adviser in college while I was studying physics:</p>

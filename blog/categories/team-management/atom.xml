@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: team management | Becoming Medium]]></title>
-  <link href="http://www.becomingmedium.com/blog/categories/team-management/atom.xml" rel="self"/>
-  <link href="http://www.becomingmedium.com/"/>
-  <updated>2014-03-11T10:52:27-07:00</updated>
-  <id>http://www.becomingmedium.com/</id>
+  <link href="http://becomingmedium.com/blog/categories/team-management/atom.xml" rel="self"/>
+  <link href="http://becomingmedium.com/"/>
+  <updated>2014-03-13T09:45:20-07:00</updated>
+  <id>http://becomingmedium.com/</id>
   <author>
     <name><![CDATA[Wes Bailey]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Avoiding Paper Tigers, Leeches and Space Cadets]]></title>
-    <link href="http://www.becomingmedium.com/blog/2013/10/28/avoiding-paper-tigers-and-leaches/"/>
+    <link href="http://becomingmedium.com/blog/2013/10/28/avoiding-paper-tigers-and-leaches/"/>
     <updated>2013-10-28T10:53:00-07:00</updated>
-    <id>http://www.becomingmedium.com/blog/2013/10/28/avoiding-paper-tigers-and-leaches</id>
+    <id>http://becomingmedium.com/blog/2013/10/28/avoiding-paper-tigers-and-leaches</id>
     <content type="html"><![CDATA[<h3>Recruiting</h3>
 
 <p>One of my favorite aspects about my job is recruiting.  I absolutely love it!  It&rsquo;s true.
@@ -211,9 +211,9 @@ techniques did you use to separate them out from the good candidates you wanted 
   
   <entry>
     <title type="html"><![CDATA[A Flexible Framework for Leveling Software Engineers]]></title>
-    <link href="http://www.becomingmedium.com/blog/2013/09/24/career-levels/"/>
+    <link href="http://becomingmedium.com/blog/2013/09/24/career-levels/"/>
     <updated>2013-09-24T11:43:00-07:00</updated>
-    <id>http://www.becomingmedium.com/blog/2013/09/24/career-levels</id>
+    <id>http://becomingmedium.com/blog/2013/09/24/career-levels</id>
     <content type="html"><![CDATA[<h3>The Problem</h3>
 
 <p>Defining a Senior Software Engineer seems to be a pretty difficult task for our industry.  Managing
@@ -394,9 +394,9 @@ have no idea and nor do I need to care anymore when writing a new job descriptio
   
   <entry>
     <title type="html"><![CDATA[The Five Stages of Learning]]></title>
-    <link href="http://www.becomingmedium.com/blog/2013/09/06/the-five-stages-of-learning/"/>
+    <link href="http://becomingmedium.com/blog/2013/09/06/the-five-stages-of-learning/"/>
     <updated>2013-09-06T16:38:00-07:00</updated>
-    <id>http://www.becomingmedium.com/blog/2013/09/06/the-five-stages-of-learning</id>
+    <id>http://becomingmedium.com/blog/2013/09/06/the-five-stages-of-learning</id>
     <content type="html"><![CDATA[<p>We just completed our semi-annual performance review cycle at ModCloth.  In many of my discussions
 delivering the reviews we discussed learning.  In each case I shared a pearl of wisdom taught to me
 by an adviser in college while I was studying physics:</p>
