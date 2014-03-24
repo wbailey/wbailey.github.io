@@ -23,3 +23,23 @@
 * sexism in the valley
 
 * the myth of the coding leader 
+
+* The Evil of the Back Channel Reference
+- ruins a persons career
+- Doesn't consider context
+
+* The art of not being a reference
+- Share story of how i asked for a reference
+- the person went off on how horrible the person was
+- Mother said if you don't have anything nice to say about someone, then don't say anything at all
+
+* Offline Documentation
+- VR Experience where we ddos'd ourselves
+- GoPro where 3rd party host provider goes down and we can't get any work done
+
+* The Agile Waterfall
+- most companies claim to be agile
+- all companies that sell physical product are cyclical and have dates
+- marketing, advertising, sales have hard dates
+- hard dates for product launch
+- how to incorporate agile in a cycle like this
