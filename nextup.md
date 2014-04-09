@@ -24,6 +24,9 @@
 
 * the myth of the coding leader 
 
+* You need to give in order to receive
+- empathy can be learned
+
 * The Evil of the Back Channel Reference
 - ruins a persons career
 - Doesn't consider context
@@ -43,3 +46,8 @@
 - marketing, advertising, sales have hard dates
 - hard dates for product launch
 - how to incorporate agile in a cycle like this
+
+* Be Positive
+- Positive vs. Negative Personas
+- start sentence with no but
+- start sentence with yes and
