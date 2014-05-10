@@ -51,3 +51,5 @@
 - Positive vs. Negative Personas
 - start sentence with no but
 - start sentence with yes and
+
+* Gates, Moats, walls and Barriers

@@ -17,6 +17,7 @@ group :development do
   gem "directory_watcher", "~> 1.4.1"
   #gem "directory_watcher"
   gem 'debugger'
+  gem 'jekyll-sitemap'
 end
 
 gem 'sinatra'
