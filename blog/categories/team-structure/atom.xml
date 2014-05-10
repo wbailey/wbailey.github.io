@@ -4,7 +4,7 @@
   <title><![CDATA[Category: team structure | Becoming Medium]]></title>
   <link href="http://becomingmedium.com/blog/categories/team-structure/atom.xml" rel="self"/>
   <link href="http://becomingmedium.com/"/>
-  <updated>2014-03-13T09:49:36-07:00</updated>
+  <updated>2014-05-05T23:54:28-07:00</updated>
   <id>http://becomingmedium.com/</id>
   <author>
     <name><![CDATA[Wes Bailey]]></name>
@@ -12,6 +12,107 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Always Be Positive]]></title>
+    <link href="http://becomingmedium.com/blog/2014/04/09/always-be-positive/"/>
+    <updated>2014-04-09T22:38:00-07:00</updated>
+    <id>http://becomingmedium.com/blog/2014/04/09/always-be-positive</id>
+    <content type="html"><![CDATA[<h3>Positrons</h3>
+
+<p>One of my favorite topics when I was learning physics was about the discovery of the positron.  Way
+back in 1928 Paul Dirac published a seminal paper where he introduced an equation unifying quantum
+mechanics, special relativity and the new property of electron spin.  This equation would go on to
+named the Dirac Equation:</p>
+
+<p><img src="http://upload.wikimedia.org/math/b/b/c/bbce488e4d5cca8438e906fb37c8101c.png"/></p>
+
+<p>which has two mathematical solutions. I am reminded of the much simpler Pythagorean Theorem which has
+the following solutions:</p>
+
+<p><img src="http://latex.codecogs.com/gif.latex?\inline&space;\dpi{120}&space;\large&space;c&space;=&space;\pm&space;\sqrt{a^{2}&space;&plus;&space;b^{2}}" title="\large c = \pm \sqrt{a^{2} + b^{2}}" /></p>
+
+<p>I have always been taught to ignore the negative solution despite it being a perfect valid solution
+to the equation.</p>
+
+<!-- more -->
+
+
+<p>Thankfully Dirac did not ignore the negatively signed solution to his equation.  Legend has it that
+Dirac was deeply troubled by the negative solution to his equation. He finally understood it by
+looking into a glass of beer (<a href="http://www.amazon.com/Thirty-Years-that-Shook-Physics/dp/048624895X">The Thirty Years That Shook Physics</a>). Instead of focusing
+on the beer, he watched the bubbles as they rose to the top of the glass. He saw them as holes in
+the sea of beer and that led to more work in his
+interpretation of the mathematical result that allowed for an <em>anti-electron</em> of positive charge and
+negative energy.</p>
+
+<p>Dirac&rsquo;s work led to the discovery of the first form of <em>anti-matter</em> that would later be named the
+positron.  I always found it interesting the physicists named it based off of particle&rsquo;s charge
+property.  They could have just as easily picked it&rsquo;s energy property and called it a negatron which
+I find has more comic strip potential.  They didn&rsquo;t and the rest is history.</p>
+
+<h3>People and Team Dynamics</h3>
+
+<p>Why the history lesson on the positron you ask?  I often hypothesize that my training as a
+physicist has helped me understand people.  Physicists study the interaction of particles and I
+assert this training helps me observe and learn about people who are a part of a team.</p>
+
+<p>We have all been members of teams at some point in our lives.  Think back of all the teams you have
+been on for a moment.  Ask yourself have you ever been on a team that has had a negative person?
+Yes, you have?  Me too.  In fact on many past teams I was that person.  What characteristics do you
+least admire about that person?</p>
+
+<h3>Negatrons</h3>
+
+<p>This person undoubtedly carries a lot of negative energy around with them.  Like the bubble in the
+beer swimming to the top they are noticeable.  Good team members seamlessly fit into the shape of
+the bottle to form the ultimate drink.  They are aligned with the mission and perform at a top level
+so the team is successful.</p>
+
+<p>The negative team member is the bubble that ultimately gives us gas and indigestion.  Read the list
+below and reflect on how much of the behavior below you have witnessed from people who have been a
+part of your team:</p>
+
+<ul>
+<li>Characterize everything as <em>useless</em> regardless of the real value</li>
+<li>Claim they can do the job better though they never actually offer to do it</li>
+<li>Show up late for or are noticeably absent from important team discussions</li>
+<li>Always deride decisions that were made in their absence and by others</li>
+<li>Repeatedly complain about the smallest problems the team is facing</li>
+<li>Are openly bitter they are <em>never</em> recognized for their contributions</li>
+<li>Constantly complaining about how everyone else&rsquo;s code sucks</li>
+<li>Tone deaf to understanding how their decisions impact the team</li>
+<li>Privately deride other non-engineering members of the team</li>
+<li>Vocal the leadership around them are incapable and part of ineffective management</li>
+<li>Have a higher sense of entitlement compared to the rest of the team</li>
+<li>Always critical of every situation and fail to recognize the team&rsquo;s success</li>
+</ul>
+
+
+<p>This is not meant to be an exhaustive list but we have all been around a few of these people during
+our careers.  Now ask yourself some questions:</p>
+
+<ul>
+<li>Did you like working with the people who exhibited this behavior?</li>
+<li>What affect did they have on the team?</li>
+<li>What would it have been like if they were not part of the team?</li>
+</ul>
+
+
+<p>My guess is no one liked working with these people despite how nice or cool they were as people.
+The affect on the team is the drag they introduced and how everyone else had to pick up the slack.
+It would have also been a lot better if they were not on the team.  In short they are like the
+positron in that they contribute a significant amount of negative energy to the team.</p>
+
+<p>From now I am calling these people <em>negatrons</em>.  In short, don&rsquo;t be one.</p>
+
+<h3>Positive Charge</h3>
+
+<p>I recently joined GoPro and talked to my team about positive and negative personas.  You can quickly
+tell which type of person you are by studying the words you choose to start a sentence in
+conversation.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Avoiding Paper Tigers, Leeches and Space Cadets]]></title>
