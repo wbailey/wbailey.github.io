@@ -89,6 +89,11 @@ From now I am calling these people *negatrons*.  In short, don't be one.
 
 ### Positive Charge
 
+Regardless of whether you are a negatron or not it is important to acknowledge
 I recently joined GoPro and talked to my team about positive and negative personas.  You can quickly
 tell which type of person you are by studying the words you choose to start a sentence in
 conversation.
+
+#### No but
+
+
