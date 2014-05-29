@@ -87,13 +87,28 @@ positron in that they contribute a significant amount of negative energy to the 
 
 From now I am calling these people *negatrons*.  In short, don't be one.
 
-### Positive Charge
+### Learning from Improv
 
 Regardless of whether you are a negatron or not it is important to acknowledge for the success of
 your team.  How do you know if you are being negative?  Actually you can tell what kind of person
 you are rather quickly by analyzing your choice of words to start a sentence in conversation.
 
+A few years back when I was working on [MyAutismTeam](http://www.myautismteam.com) full time my
+co-founder Mary Ray suggested we do an Improv team building event.  If you haven't done this before
+then I highly recommend it.  Improv is all about continuation and setting your partner up for
+success.
 
-#### Yes and...
+One of the exercises is to have a conversation about any topic, and setting your partner up for
+success just pick an offbeat one to make it more fun.  The challenge is to:
 
+{%blockquote%}
+Start every sentence with "No but..."
+{%endblockquote%}
+
+Go ahead and try it.  Give yourself a time limit and see how it goes.  Once you are done try the
+opposite.  This time have the exact same conversation on this time do the following:
+
+{%blockquote%}
+Start every sentence with "Yes and..."
+{%endblockquote%}
 
