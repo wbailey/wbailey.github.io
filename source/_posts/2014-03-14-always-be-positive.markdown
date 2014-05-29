@@ -15,23 +15,22 @@ named the Dirac Equation:
 
 <img src="http://upload.wikimedia.org/math/b/b/c/bbce488e4d5cca8438e906fb37c8101c.png"/>
 
-which has two mathematical solutions. I am reminded of the much simpler Pythagorean Theorem which has
-the following solutions:
+which has two mathematical solutions. I am reminded of the much simpler Pythagorean Theorem which
+also has two solutions shown below:
 
 <img src="http://latex.codecogs.com/gif.latex?\inline&space;\dpi{120}&space;\large&space;c&space;=&space;\pm&space;\sqrt{a^{2}&space;&plus;&space;b^{2}}" title="\large c = \pm \sqrt{a^{2} + b^{2}}" />
 
-I have always been taught to ignore the negative solution despite it being a perfect valid solution
-to the equation.
+I have always been taught to ignore the negative solution despite it being a perfectly valid
+solution to the equation.
 
 <!-- more -->
 
 Thankfully Dirac did not ignore the negatively signed solution to his equation.  Legend has it that
 Dirac was deeply troubled by the negative solution to his equation. He finally understood it by
-looking into a glass of beer ([The Thirty Years That Shook Physics](http://www.amazon.com/Thirty-Years-that-Shook-Physics/dp/048624895X)). Instead of focusing
-on the beer, he watched the bubbles as they rose to the top of the glass. He saw them as holes in
-the sea of beer and that led to more work in his
-interpretation of the mathematical result that allowed for an *anti-electron* of positive charge and
-negative energy.
+looking into a glass of beer ([The Thirty Years That Shook Physics](http://www.amazon.com/Thirty-Years-that-Shook-Physics/dp/048624895X)).
+Instead of focusing on the beer, he watched the bubbles as they rose to the top of the glass. He saw
+them as holes in the sea of beer and that led to more work in his interpretation of the mathematical
+result that allowed for an *anti-electron* of positive charge and negative energy.
 
 Dirac's work led to the discovery of the first form of *anti-matter* that would later be named the
 positron.  I always found it interesting the physicists named it based off of particle's charge
@@ -66,12 +65,13 @@ part of your team:
 * Always deride decisions that were made in their absence and by others
 * Repeatedly complain about the smallest problems the team is facing
 * Are openly bitter they are *never* recognized for their contributions
-* Constantly complaining about how everyone else's code sucks
+* Constantly complaining about how everyone else's code is inferior
 * Tone deaf to understanding how their decisions impact the team
 * Privately deride other non-engineering members of the team
 * Vocal the leadership around them are incapable and part of ineffective management
 * Have a higher sense of entitlement compared to the rest of the team
 * Always critical of every situation and fail to recognize the team's success
+* Blame others for their apathy and lack of motivation
 
 This is not meant to be an exhaustive list but we have all been around a few of these people during
 our careers.  Now ask yourself some questions:
@@ -89,11 +89,11 @@ From now I am calling these people *negatrons*.  In short, don't be one.
 
 ### Positive Charge
 
-Regardless of whether you are a negatron or not it is important to acknowledge
-I recently joined GoPro and talked to my team about positive and negative personas.  You can quickly
-tell which type of person you are by studying the words you choose to start a sentence in
-conversation.
+Regardless of whether you are a negatron or not it is important to acknowledge for the success of
+your team.  How do you know if you are being negative?  Actually you can tell what kind of person
+you are rather quickly by analyzing your choice of words to start a sentence in conversation.
 
-#### No but
+
+#### Yes and...
 
 
