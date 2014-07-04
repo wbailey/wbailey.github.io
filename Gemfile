@@ -14,8 +14,8 @@ group :development do
   gem 'rb-fsevent'
   gem 'stringex'
   gem 'liquid'
-  gem "directory_watcher", "~> 1.4.1"
-  #gem "directory_watcher"
+  #gem "directory_watcher", "~> 1.4.1"
+  gem "directory_watcher"
   gem 'debugger'
   gem 'jekyll-sitemap'
 end
