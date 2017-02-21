@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: team structure | Becoming Medium]]></title>
+  <link href="http://becomingmedium.com/blog/categories/team-structure/atom.xml" rel="self"/>
+  <link href="http://becomingmedium.com/"/>
+  <updated>2014-05-05T23:54:28-07:00</updated>
+  <id>http://becomingmedium.com/</id>
+  <author>
+    <name><![CDATA[Wes Bailey]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Always Be Positive]]></title>
+    <link href="http://becomingmedium.com/blog/2014/04/09/always-be-positive/"/>
+    <updated>2014-04-09T22:38:00-07:00</updated>
+    <id>http://becomingmedium.com/blog/2014/04/09/always-be-positive</id>
+    <content type="html"><![CDATA[<h3>Positrons</h3>
+
+<p>One of my favorite topics when I was learning physics was about the discovery of the positron.  Way
+back in 1928 Paul Dirac published a seminal paper where he introduced an equation unifying quantum
+mechanics, special relativity and the new property of electron spin.  This equation would go on to
+named the Dirac Equation:</p>
+
+<p><img src="http://upload.wikimedia.org/math/b/b/c/bbce488e4d5cca8438e906fb37c8101c.png"/></p>
+
+<p>which has two mathematical solutions. I am reminded of the much simpler Pythagorean Theorem which has
+the following solutions:</p>
+
+<p><img src="http://latex.codecogs.com/gif.latex?\inline&space;\dpi{120}&space;\large&space;c&space;=&space;\pm&space;\sqrt{a^{2}&space;&plus;&space;b^{2}}" title="\large c = \pm \sqrt{a^{2} + b^{2}}" /></p>
+
+<p>I have always been taught to ignore the negative solution despite it being a perfect valid solution
+to the equation.</p>
+
+<!-- more -->
+
+
+<p>Thankfully Dirac did not ignore the negatively signed solution to his equation.  Legend has it that
+Dirac was deeply troubled by the negative solution to his equation. He finally understood it by
+looking into a glass of beer (<a href="http://www.amazon.com/Thirty-Years-that-Shook-Physics/dp/048624895X">The Thirty Years That Shook Physics</a>). Instead of focusing
+on the beer, he watched the bubbles as they rose to the top of the glass. He saw them as holes in
+the sea of beer and that led to more work in his
+interpretation of the mathematical result that allowed for an <em>anti-electron</em> of positive charge and
+negative energy.</p>
+
+<p>Dirac&rsquo;s work led to the discovery of the first form of <em>anti-matter</em> that would later be named the
+positron.  I always found it interesting the physicists named it based off of particle&rsquo;s charge
+property.  They could have just as easily picked it&rsquo;s energy property and called it a negatron which
+I find has more comic strip potential.  They didn&rsquo;t and the rest is history.</p>
+
+<h3>People and Team Dynamics</h3>
+
+<p>Why the history lesson on the positron you ask?  I often hypothesize that my training as a
+physicist has helped me understand people.  Physicists study the interaction of particles and I
+assert this training helps me observe and learn about people who are a part of a team.</p>
+
+<p>We have all been members of teams at some point in our lives.  Think back of all the teams you have
+been on for a moment.  Ask yourself have you ever been on a team that has had a negative person?
+Yes, you have?  Me too.  In fact on many past teams I was that person.  What characteristics do you
+least admire about that person?</p>
+
+<h3>Negatrons</h3>
+
+<p>This person undoubtedly carries a lot of negative energy around with them.  Like the bubble in the
+beer swimming to the top they are noticeable.  Good team members seamlessly fit into the shape of
+the bottle to form the ultimate drink.  They are aligned with the mission and perform at a top level
+so the team is successful.</p>
+
+<p>The negative team member is the bubble that ultimately gives us gas and indigestion.  Read the list
+below and reflect on how much of the behavior below you have witnessed from people who have been a
+part of your team:</p>
+
+<ul>
+<li>Characterize everything as <em>useless</em> regardless of the real value</li>
+<li>Claim they can do the job better though they never actually offer to do it</li>
+<li>Show up late for or are noticeably absent from important team discussions</li>
+<li>Always deride decisions that were made in their absence and by others</li>
+<li>Repeatedly complain about the smallest problems the team is facing</li>
+<li>Are openly bitter they are <em>never</em> recognized for their contributions</li>
+<li>Constantly complaining about how everyone else&rsquo;s code sucks</li>
+<li>Tone deaf to understanding how their decisions impact the team</li>
+<li>Privately deride other non-engineering members of the team</li>
+<li>Vocal the leadership around them are incapable and part of ineffective management</li>
+<li>Have a higher sense of entitlement compared to the rest of the team</li>
+<li>Always critical of every situation and fail to recognize the team&rsquo;s success</li>
+</ul>
+
+
+<p>This is not meant to be an exhaustive list but we have all been around a few of these people during
+our careers.  Now ask yourself some questions:</p>
+
+<ul>
+<li>Did you like working with the people who exhibited this behavior?</li>
+<li>What affect did they have on the team?</li>
+<li>What would it have been like if they were not part of the team?</li>
+</ul>
+
+
+<p>My guess is no one liked working with these people despite how nice or cool they were as people.
+The affect on the team is the drag they introduced and how everyone else had to pick up the slack.
+It would have also been a lot better if they were not on the team.  In short they are like the
+positron in that they contribute a significant amount of negative energy to the team.</p>
+
+<p>From now I am calling these people <em>negatrons</em>.  In short, don&rsquo;t be one.</p>
+
+<h3>Positive Charge</h3>
+
+<p>I recently joined GoPro and talked to my team about positive and negative personas.  You can quickly
+tell which type of person you are by studying the words you choose to start a sentence in
+conversation.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Avoiding Paper Tigers, Leeches and Space Cadets]]></title>
+    <link href="http://becomingmedium.com/blog/2013/10/28/avoiding-paper-tigers-and-leaches/"/>
+    <updated>2013-10-28T10:53:00-07:00</updated>
+    <id>http://becomingmedium.com/blog/2013/10/28/avoiding-paper-tigers-and-leaches</id>
+    <content type="html"><![CDATA[<h3>Recruiting</h3>
+
+<p>One of my favorite aspects about my job is recruiting.  I absolutely love it!  It&rsquo;s true.
+Recruiting allows me to meet a lot of engineers and talk shop.  You  get to learn all about their
+backgrounds, interests, companies they have worked for and amazing projects they have worked on.  If
+you are lucky you also have an amazing technical conversation at some point that leaves everyone
+impressed.  What is not to love?</p>
+
+<!-- more -->
+
+
+<p>Well, I don&rsquo;t love disappointing my team with a candidate.  We have all been there either as a
+hiring manager or a member of the team.  The team is totally pumped and excited to meet whiz bang
+candidate and interview them.  However, after the candidate gets past the introductory phase
+everyone on the interview panel realizes they have been duped.  The candidate turns out to be a
+complete dud.  We are left to wonder how they made it through the screening process and got this
+far?  It sucks and neither the team or the candidate is happy about it.</p>
+
+<p>In this post I am going to introduce you to candidates that I have dubbed <em>paper tigers</em>, <em>leeches</em>
+and <em>space cadets</em>.  These are the candidate types who in my experience you want to avoid like the
+plague.  The problem is how do we identify them and discover them early on in the process?  What
+characteristics do they have in common with great candidates that make them hard to distinguish?
+What questions can we ask them during a phone screen to ferret them out?</p>
+
+<p>I don&rsquo;t have prescriptive answers for all of these questions to be honest.  I think by sharing my
+experience and raising some valid points, you might be able to avoid candidates like this in the
+future providing a better search experience for your team and the prospective candidates.</p>
+
+<h3>Screening 101</h3>
+
+<p>How many times have you read a candidate&rsquo;s resume and thought to yourself how amazing this person is
+and what a great candidate they would make for your open position?  Reviewing resumes and screening
+prospective candidates is not an easy thing to do.  Resumes come in all forms and flavors making it
+difficult sometimes to read whether a candidate has the relevant experience necessary for the job.
+A few things that I have noticed that help in the process include the following:</p>
+
+<ul>
+<li><em>Reject any candidate that doesn&rsquo;t write a personalized cover letter</em> - It doesn&rsquo;t take that much
+effort to explain why you are interested and why your experience is right for the job then don&rsquo;t
+bother.</li>
+<li><em>Favor resumes that tell a story and really emphasize what the candidate is interested in and
+passionate about</em> - If people are doing it just for the money they won&rsquo;t make great members of
+your team.</li>
+<li><em>Resumes that illustrate how they used their skills are better than ones that just list everything
+they have ever used</em> - I dislike people who just mind numblingly list programming languages they
+have used.  You can&rsquo;t tell if they have only played with the language or whether they used it
+professionally</li>
+<li><em>Forget resumes that have more than one grammatical error or spelling mistakes right away</em> - I
+know this is tough for folks where English isn&rsquo;t their first language.  There are so many tools
+now that to me it reflects effort more than language difficulty.</li>
+<li><em>Weed out resumes that don&rsquo;t contain the relevant experience or work history in them because
+stretch candidates rarely work in practice</em> - This is just a no brainer to me.</li>
+<li><em>A pet peeve of mine is resumes that are sent as Word docs instead of PDFs especially for
+technology positions</em> - Send a PDF so I don&rsquo;t have to worry about which version of Word I have
+installed or how crappy the doc gets displayed when converted in Google Docs.</li>
+</ul>
+
+
+<p>Of course there are more tips for screening but this isn&rsquo;t meant to be a comprehensive breakdown of
+how to filter through resumes.  Years ago, Joel Spolsky wrote a nice
+<a href="http://www.joelonsoftware.com/articles/SortingResumes.html">piece</a> on the subject so you can read
+that for reference.</p>
+
+<h3>Paper Tigers</h3>
+
+<p>Like the name I have given them implies, the best way to describe people who fall into this
+category is that they look fantastic on paper but completely underwhelm when interviewed in person.
+They either totally lack on the technical side or something else comes up where they don&rsquo;t impress.
+Not being to totally put my finger on this person here are a few characteristics that I have noticed
+about them.  Here are what you will immediately see when you read their resume:</p>
+
+<ul>
+<li>Their resume is easy to read and really well organized making it clear who they worked for and
+what they worked on.</li>
+<li>The companies they have worked for are well known for their products or development teams and it
+seems they made great contributions to either or both.</li>
+<li>The person has a solid educational background with degrees from well known schools and programs.</li>
+<li>The projects they list are relevant and have a high correlation to the position they are applying
+for.</li>
+<li>They perfectly meet all of the requirements for the level of experience for the position.</li>
+</ul>
+
+
+<p>This all sounds great so where does it go awry?  Well this is what I have found to be true from
+<em>paper tigers</em> when I phone screen or interview them in person:</p>
+
+<ul>
+<li>They tailored their resume to perfectly fit the job description however they neither have the
+skills or the experience required.</li>
+<li>If they are from an agency you find the recruiter just &ldquo;<em>resume stuffed</em>&rdquo; and the person who you
+are speaking with isn&rsquo;t really the person they presented on paper.</li>
+<li>They listed they are qualified in too many technologies, languages and frameworks when you drill
+you confirm your notion that no one person can be an expert in everything they listed.</li>
+<li>When you dig into their experience, you find they are part of a larger team and didn&rsquo;t have the
+hands on experience and had actual little involvement in the project or technology</li>
+<li>Another quality is listing items they haven&rsquo;t worked with in production but it shows up on their
+resume as if they have.</li>
+<li>They lie about the amount of experience and later it comes out that they have much less than they
+claimed because they claim the length of the entire project as their own vs their actual
+involvement in it.</li>
+<li>They did the project on their own time and have never done it professionally but count it as real
+experience on their resume.</li>
+</ul>
+
+
+<h3>Leeches</h3>
+
+<p>The next category I have dubbed <em>Leeches</em> because like a leach, they survive off of the work of
+others.  In their resumes they take credit for others but instead of being caught in the phone
+screen, they pull it off and might not be exposed until you hire them.  When they join your team
+they drain it just like a parasite which is bad for the team&rsquo;s productivity, chemistry and moral.
+Some of the characteristics of this type of candidate include most everything from the <em>paper tiger</em>
+and additionally:</p>
+
+<ul>
+<li>They led or worked with an offshore team or remote team in another location.</li>
+<li>They will claim to have setup or built a team but in reality they had no part in the growth at
+all.</li>
+<li>They indicate they selected a technology or vendor but then never worked with them or were part of
+the implementation.</li>
+<li>There was strong technical leadership on the team that they are trying to take credit for as their
+work and actions and involvement.</li>
+<li>You find out through references that this person isn&rsquo;t in the top half of people that person has
+worked with.</li>
+<li>They know just enough to be dangerous but don&rsquo;t have the full experience and rely on their
+teammates to actually do the work.</li>
+<li>Beware the phantom and exaggerated titles from smaller companies that imply leadership and
+experience but when you drill in they don&rsquo;t have it.</li>
+</ul>
+
+
+<h3>Space Cadet</h3>
+
+<p>This is a more recent category of candidate for me.  Several times in my career I have come across a
+bright individual and think the person could fill in more than one role on the team.  The problem
+with this person is they really don&rsquo;t know what they want to do with their careers.  Sometimes some
+simple coaching can really benefit this type of candidate, but other times you are just dealing with
+a person who really doesn&rsquo;t know what they want to do.  This person I call a <em>space cadet</em> because
+they have no clue and if you bring them on to your team, they will ultimately blow it up like a
+failed rocket launch through their ambivalent actions.</p>
+
+<p>How do you tell if you are talking to a <em>space cadet</em>?  Here are a few things that might help you
+discern them from good candidates:</p>
+
+<ul>
+<li>They work at a very large company where they can kind of drift and hide from real responsibility
+or success.</li>
+<li>The person has worked at their present company for a rather long time.</li>
+<li>They have found a unique position at their current company that doesn&rsquo;t really apply to your
+company.</li>
+<li>The person is unsure whether they want to be a manager or a technical lead.  The main reason they
+are unsure is because they don&rsquo;t really understand the difference between the roles.</li>
+<li>The candidate is usually a really smart and well educated person but you just have a hunch they
+haven&rsquo;t fully applied themselves like other candidates with similar backgrounds have.</li>
+<li>They just totally have no freaking idea what they really want to do or how to effectively use
+their talents.</li>
+</ul>
+
+
+<h3>Discovery Techniques</h3>
+
+<p>I don&rsquo;t have any powerful insights here except to take the time to really get to know the candidate.
+One technique I use is to ask open ended questions and see where the candidate goes with their
+response.  You&rsquo;ll know if they are bluffing or really qualified as you ask more questions that
+involve them sharing the depth of their knowledge.</p>
+
+<p>One example when it comes to roles is:</p>
+
+<blockquote><p>How do you define good software architecture?</p></blockquote>
+
+<p>Totally open ended and doesn&rsquo;t give anything away.  The answer can go anywhere from discussing
+<em>Design Patterns</em> to <a href="http://www.sandimetz.com">Sandi Metz Rules</a></p>
+
+<p>As an example one of my favorite ruby questions was simply:</p>
+
+<blockquote><p>What is the difference between an array and a hash in ruby?</p></blockquote>
+
+<p>If you wind up talking about indexes and the conversation stops there the candidate is pretty
+junior.  If they take it all the way to the C code in the MRI discussing the b-tree search for the
+hash then you know they&rsquo;ve been there and done that!</p>
+
+<p>Another trick I have used to suss people like this out is to ask the same or a related question
+again either during the interview, or for the next round of the interview process.  If candidates
+can&rsquo;t keep their stories and answers straight there is pretty high likelihood of them being a <em>paper
+tiger</em> or a <em>leach</em>.</p>
+
+<p>Let me know what your experience has been!  Have you interviewed these types of candidates and what
+techniques did you use to separate them out from the good candidates you wanted to move ahead with?</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[A Flexible Framework for Leveling Software Engineers]]></title>
+    <link href="http://becomingmedium.com/blog/2013/09/24/career-levels/"/>
+    <updated>2013-09-24T11:43:00-07:00</updated>
+    <id>http://becomingmedium.com/blog/2013/09/24/career-levels</id>
+    <content type="html"><![CDATA[<h3>The Problem</h3>
+
+<p>Defining a Senior Software Engineer seems to be a pretty difficult task for our industry.  Managing
+expectations around this definition is also really difficult and causes strife in organizations that
+are trying to grow and retain talent.  The current methodology is to create a &ldquo;<em>Job Description</em>&rdquo;
+which focuses on &ldquo;<em>responsibilities</em>&rdquo; and &ldquo;<em>requirements</em>&rdquo; by listing the work skills, technical
+requirements and years of experience required for the position.</p>
+
+<!-- more -->
+
+
+<p>Like everyone else, I used this approach for a while until I ran into problems.  I started looking
+for a framework that I could use to scale an organization in both talent evaluation and career
+development.  I wanted answers to questions like:</p>
+
+<ul>
+<li>How do you differentiate between a Software Engineer and a Senior Software Engineer?</li>
+<li>Is seniority based on years of experience or based on technical capability?</li>
+<li>How do you promote and fairly compensate engineers who use different languages and tools?</li>
+<li>How can you evaluate new talent consistently and compare them with the current members on your
+team?</li>
+<li>Where do the required years of experience come from and are they just an artificial crutch
+justification?</li>
+<li>How do you mentor engineers in their career so that they can grow and learn?</li>
+</ul>
+
+
+<p>There are more questions to be answered but this is a good starter set.  Naturally, I searched the web for
+answers.  It turned up a couple of somewhat useful threads on
+<a href="http://programmers.stackexchange.com/questions/14914/whats-the-difference-between-entry-level-jr-sr-developers">programmers.stackexchange</a>
+and on
+<a href="http://www.quora.com/When-does-a-software-developer-become-a-senior-software-developer">Quora</a> and
+while they left me admiring the technical complexity of some of the answers, there was still
+something missing.</p>
+
+<p>Not finding what I wanted online, I talked with a few peers in my network. Turns out they use the
+&ldquo;<em>Job Description</em>&rdquo; method and they agree it is a failed approach.  Since my search turned empty I
+instead spent a lot of time thinking on the topic and came up with a framework that provides
+guidelines for making the decisions around the questions above.</p>
+
+<h3>A New Approach</h3>
+
+<p>It is important to understand that the definition is actually for many levels than just the Senior
+Software Engineer.  There are some who argue for a <a href="http://http://www.slideshare.net/bcantrill/surge2013">flat organization</a>,
+but I&rsquo;ll address that myth in another blog post.  We should ensure that our level definitions make
+it easy to answer the questions we posited previously.  They should also help us lay the foundation
+for a career progression that is possible within the company helping us retain talented people.</p>
+
+<p>The challenge I set for myself which really helped provide a different frame of reference was to
+answer the following question:</p>
+
+<blockquote><p>If you could describe what an engineer at this level will do using only word, what would it be?</p></blockquote>
+
+<p>A single word is succinct, descriptive and most importantly memorable.  It will be easy for your
+teams to digest and in discussions leverage the simplicity.  A single word is only useful if we can
+provide context so the next step in the framework is to provide a single sentence description of the
+level.</p>
+
+<blockquote><p>Summarize what the person at this level will be doing in a single sentence incorporating the
+single word definition from the previous step</p></blockquote>
+
+<p>Building upon context we can switch to defining the major areas of focus the role should have at
+this level:</p>
+
+<blockquote><p>Define 3 to 4 technically agnostic areas of focus that provide guidance for a person performing at
+this level.</p></blockquote>
+
+<p>It is important with the last step of the approach to not get caught up in the details of the
+technical requirements.  Doing so prevents you from having an overall framework and leads to the
+dreaded <em>Job Description</em> model that we previously stated doesn&rsquo;t help solve any problems.</p>
+
+<h3>An Example</h3>
+
+<p>Let&rsquo;s walk through how I applied the model to engineering at <a href="http://www.modcloth.com">ModCloth</a>
+where we have 3 levels in the software development position:</p>
+
+<ul>
+<li>Associate Software Engineer</li>
+<li>Software Engineer</li>
+<li>Senior Software Engineer</li>
+</ul>
+
+
+<p>Of course we have other roles on the team as well such as test and platform engineers and I am sure
+you do on your team&rsquo;s as well, but I&rsquo;ll leave them out for brevity.</p>
+
+<h3>Associate Software Engineer</h3>
+
+<p>This level is reserved for beginners, someone who is fresh out of school or making a career change.
+We don&rsquo;t expect them to have a lot of experience and it is easy to envision them spending their
+first year <em>learning</em> about the languages used and best practices of their team.  Applying the model
+we have the following:</p>
+
+<h4>Description</h4>
+
+<p><em>Learning</em></p>
+
+<h4>Context</h4>
+
+<p><em>At the Associate level you are learning skills and developing competence.</em></p>
+
+<h4>Areas of Focus</h4>
+
+<ul>
+<li><em>Develop a basic understanding of the languages and tools used by the team.</em></li>
+<li><em>Gain exposure to software development best practices such as TDD, debugging, documentation, etc.</em></li>
+<li><em>Learn good communication skills to be used with your teammates.</em></li>
+</ul>
+
+
+<h3>Software Engineer</h3>
+
+<p>At this level the engineer understands the basics of the areas of focus from the previous level.
+The distinction is they are now <em>applying</em> their basic skills instead of learning what they are and
+requiring supervision.  Of course we are always learning but the difference is the person can now be
+trusted to apply their newly acquired skills independently.</p>
+
+<h4>Description</h4>
+
+<p><em>Practicing</em></p>
+
+<h4>Context</h4>
+
+<p><em>At the Software level you are applying your skills and developing expertise</em></p>
+
+<h4>Areas of Focus</h4>
+
+<ul>
+<li><em>Leverage best practices to write and continually improve the code base.</em></li>
+<li><em>Develop mastery in the tools, languages and frameworks used by the team.</em></li>
+<li><em>Begin practicing and learning how to teach/mentor less experienced teammates.</em></li>
+</ul>
+
+
+<h3>Senior Software Engineer</h3>
+
+<p>This level of engineer is the crux of any successful engineering team.  They are able to go beyond
+just using tools and techniques and now recommend what the team should do and how to go about it.
+They have accomplished a technical maturity that allows them to solve complex problems and begin to
+take an ownership position on the code and systems they haven&rsquo;t developed.</p>
+
+<h4>Description</h4>
+
+<p><em>Mentoring</em></p>
+
+<h4>Context</h4>
+
+<p><em>At the Senior level you are mentoring your teammates and sharing expertise</em></p>
+
+<h4>Level Areas of Focus</h4>
+
+<ul>
+<li><em>Develop the necessary best practices to work with and write a great code base.</em></li>
+<li><em>Help evaluate and select the tools, languages and frameworks used by the team.</em></li>
+<li><em>On board and mentor new members of the team ensuring their success.</em></li>
+<li><em>Begin to take an ownership position on code and systems developed by others</em></li>
+</ul>
+
+
+<h3>Summary</h3>
+
+<p>We have covered a model framework for defining the different levels of any role within an
+organization.  The benefits of the model are that it can be applied to any role in the organization
+and is scalable.   A simple moniker for remembering the model follows below:</p>
+
+<blockquote><p>Description -> Context -> Areas of Focus</p></blockquote>
+
+<p>Let&rsquo;s revisit how the example application of the model answers the questions posed at the beginning
+of this blog.  By providing simple and flexible areas of focus it helps evaluate and contrast the
+different levels in the defined role easily.  It is technology and years of experience agnostic
+instead judging engineers on their ability to go from individual to more team focused contributors.
+It also makes learning and mentoring a key component of how the team will judge it&rsquo;s success.</p>
+
+<p>The one question it doesn&rsquo;t answer is where the years of experience numbers come from?  Honestly, I
+have no idea and nor do I need to care anymore when writing a new job description!</p>
+]]></content>
+  </entry>
+  
+</feed>
